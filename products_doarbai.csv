@@ -1,0 +1,523 @@
+﻿ID,Tip,SKU,"GTIN, UPC, EAN sau ISBN",GTIN13 / EAN,Cantitate mică în stoc,Nume,Publicat,Este reprezentativ?,Vizibilitate în catalog,Descriere scurtă,Descriere,Stare taxă,În stoc?,Stoc,Precomenzile sunt permise?,Vândut individual?,Greutate (kg),Lungime (cm),Lățime (cm),Înălțime (cm),Permiți recenzii de la clienți?,Preț promoțional,Preț obișnuit,Categorii,Etichete,Imagini,Poziție,Branduri,Părinte,Nume atribut 1,Valoare (valori) atribut 1,Vizibilitate atribut 1,Atribut 1 global,Nume atribut 2,Valoare (valori) atribut 2,Vizibilitate atribut 2,Atribut 2 global,Nume atribut 3,Valoare (valori) atribut 3,Vizibilitate atribut 3,Atribut 3 global,Nume atribut 4,Valoare (valori) atribut 4,Vizibilitate atribut 4,Atribut 4 global,Meta: furnizor,Meta: cod_furnizor,Meta: batch_import,Meta: confidence_score,Meta: manual_review_needed,Meta: image_ai_generated,Meta: image_job_type,Meta: _yoast_wpseo_title,Meta: _yoast_wpseo_metadesc,Meta: _yoast_wpseo_focuskw,Descriptor,Meta: _image_alt_text,MPN,Meta: _identifier_exists
+,simple,MC-V9980,,,,"Dulap de baie suspendat cu lavoar integrat, compozit fibra de carbon, negru mat textura tesatura 800 mm",1,0,visible,"Dulap de baie suspendat cu lavoar integrat, realizat din compozit din fibra de carbon, in finisaj negru mat cu textura tesatura. Montaj pe perete, design minimalist contemporan, dimensiuni 800x520x510 mm.","<p>Dulap de baie suspendat cu lavoar integrat, din compozit din fibra de carbon, in finisaj negru mat cu textura tesatura, conceput pentru un montaj pe perete elegant si o estetica minimalista.</p>
+<table>
+<tr><th>Cod intern</th><td>MC-V9980</td></tr>
+<tr><th>Tip produs</th><td>Dulap de baie suspendat cu lavoar integrat</td></tr>
+<tr><th>Material</th><td>Compozit din fibra de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru mat, textura tesatura</td></tr>
+<tr><th>Dimensiuni (L x l x I)</th><td>800 x 520 x 510 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat (pe perete)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Lavoar integrat, ventil cu scurgere pop-up</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>890 x 610 x 600 mm</td></tr>
+</table>",taxable,1,,,0,,"80,0","52,0","51,0",1,,8435,Baie > Mobilier de baie > Dulapuri suspendate,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-V9980/01.png,,,,Culoare,Negru,1,1,Finisaj,"Mat, textura tesatura",1,1,Material,Compozit din fibra de carbon,1,1,Dimensiuni,800 x 520 x 510 mm,1,1,,MC-V9980,import-2026-06,high,,,,"Dulap baie suspendat cu lavoar, negru mat, 800 mm","Dulap de baie suspendat cu lavoar integrat, compozit fibra de carbon, negru mat textura tesatura, 800x520x510 mm. Montaj pe perete, design minimalist.",dulap baie suspendat cu lavoar,dulap-baie-suspendat-lavoar-negru-mat-800mm,"Dulap de baie suspendat cu lavoar integrat din compozit fibra de carbon, negru mat textura tesatura, montat pe perete cu oglinda deasupra",MC-V9980,
+,simple,MC-V9980B,,,,"Lavoar pe blat dreptunghiular din compozit fibra de carbon, negru mat texturat",1,0,visible,"Lavoar pe blat de design, formă dreptunghiulară cu profil subțire, realizat din compozit din fibră de carbon. Finisaj negru mat cu textură de țesătură, ideal pentru băi moderne și minimaliste.","<p>Lavoar pe blat de design, cu formă dreptunghiulară și profil subțire, realizat din compozit din fibră de carbon, cu finisaj negru mat și textură de țesătură care îi conferă un aspect tactil distinct.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-V9980B</td></tr>
+<tr><th>Tip produs</th><td>Lavoar pe blat</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, textură țesătură (cloth), mat</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>550 × 350 × 60 mm</td></tr>
+<tr><th>Montaj</th><td>Pe blat</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Fără orificiu pentru baterie; scurgere centrală</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>640 × 440 × 150 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"55,0","35,0","6,0",1,,2373,Baie > Lavoare > Lavoare pe blat,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-V9980B/01.png,,,,Culoare,Negru,1,1,Finisaj,"Mat, textură țesătură",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,550 × 350 × 60 mm,1,1,,MC-V9980B,import-2026-06,high,,,,Lavoar pe blat dreptunghiular negru mat texturat 550x350,"Lavoar pe blat de design, dreptunghiular, din compozit din fibra de carbon, finisaj negru mat cu textura de tesatura. Dimensiuni 550x350x60 mm.",lavoar pe blat negru mat,lavoar-pe-blat-dreptunghiular-negru-mat-texturat-550x350,"Lavoar pe blat dreptunghiular din compozit fibra de carbon, negru mat cu textura de tesatura",MC-V9980B,
+,simple,MC-V9990,,,,"Dulap de baie suspendat cu lavoar dublu integrat, compozit fibră de carbon, negru mat",1,0,visible,"Dulap de baie suspendat de design, cu lavoar dublu integrat, realizat din compozit din fibră de carbon. Finisaj negru mat cu textură țesătură, lungime 1400 mm, montaj pe perete. Liniile fluide și suprafața matuita oferă un aspect modern, premium, pentru băi contemporane.","<p>Dulap de baie suspendat de design, cu lavoar dublu integrat, realizat din compozit din fibră de carbon, cu finisaj negru mat și textură țesătură pentru un aspect contemporan și premium.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-V9990</td></tr>
+<tr><th>Tip produs</th><td>Dulap de baie suspendat cu lavoar integrat</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru mat, textură țesătură (cloth)</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1400 × 520 × 510 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat (pe perete)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Lavoar dublu integrat, ventil cu scurgere pop-up</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1490 × 610 × 600 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"140,0","52,0","51,0",1,,11950,Baie > Mobilier de baie > Dulapuri suspendate,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-V9990/01.png,,,,Culoare,Negru,1,1,Finisaj,"Mat, textură țesătură (cloth)",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1400 × 520 × 510 mm,1,1,,MC-V9990,import-2026-06,high,,,,"Dulap de baie suspendat cu lavoar, fibră de carbon negru mat","Dulap de baie suspendat cu lavoar dublu integrat, din compozit fibră de carbon, finisaj negru mat cu textură țesătură. Dimensiuni 1400×520×510 mm, montaj pe perete.",dulap de baie suspendat cu lavoar,dulap-baie-suspendat-lavoar-fibra-carbon-negru-mat,"Dulap de baie suspendat cu lavoar dublu integrat, compozit fibră de carbon negru mat, textură țesătură, montat pe perete sub oglindă",MC-V9990,
+,simple,MC-V9999,,,,"Dulap de baie suspendat cu lavoar integrat, negru mat, textură țesătură, 1200 mm",1,0,visible,"Dulap de baie suspendat cu lavoar integrat, realizat din compozit din fibră de carbon, finisaj negru mat cu textură țesătură. Design modern, montaj pe perete, dimensiuni 1200x520x300 mm.","<p>Dulap de baie suspendat cu lavoar integrat, din compozit din fibră de carbon, în finisaj negru mat cu textură țesătură, pentru un aspect modern și discret în baie.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-V9999</td></tr>
+<tr><th>Tip produs</th><td>Dulap de baie suspendat (cu lavoar integrat)</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, textură țesătură, mat</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1200 × 520 × 300 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat, pe perete</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Lavoar integrat, cu orificiu de scurgere</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1290 × 610 × 380 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"120,0","52,0","30,0",1,,18277,Baie > Mobilier de baie > Dulapuri suspendate,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-V9999/01.png,,,,Culoare,Negru,1,1,Finisaj,"Mat, textură țesătură",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1200 × 520 × 300 mm,1,1,,MC-V9999,import-2026-06,high,,,,Dulap baie suspendat cu lavoar negru mat 1200 mm,"Dulap de baie suspendat cu lavoar integrat, compozit din fibră de carbon, negru mat cu textură țesătură, 1200 mm. Design modern, montaj pe perete.",dulap baie suspendat cu lavoar,dulap-baie-suspendat-lavoar-negru-mat-1200mm,"Dulap de baie suspendat cu lavoar integrat, negru mat cu textură țesătură, montat pe perete sub o oglindă",MC-V9999,
+,simple,MC-V9999C,,,,"Coloană depozitare verticală pentru baie, compozit fibră de carbon, negru mat texturat",1,0,visible,"Coloană / dulap de depozitare verticală pentru baie, realizată din compozit cu fibră de carbon, în finisaj negru mat cu textură de țesătură. Soluție de design pentru organizarea spațiului, cu dimensiuni 1200x400x360 mm.","<p>Coloană de depozitare verticală pentru baie, realizată din compozit cu fibră de carbon, cu finisaj negru mat și textură de țesătură, gândită ca soluție elegantă de organizare a spațiului.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-V9999C</td></tr>
+<tr><th>Tip produs</th><td>Coloană / dulap de depozitare verticală</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru mat, textură țesătură (cloth)</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1200 × 400 × 360 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat (pe perete)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1290 × 490 × 450 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"120,0","40,0","36,0",1,,8435,Baie > Mobilier de baie > Dulapuri suspendate,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-V9999C/01.png,,,,Culoare,Negru,1,1,Finisaj,"Mat, textură țesătură (cloth)",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1200 × 400 × 360 mm,1,1,,MC-V9999C,import-2026-06,medium,,,,"Coloană depozitare baie compozit fibră carbon, negru mat","Coloană de depozitare verticală pentru baie din compozit cu fibră de carbon, finisaj negru mat texturat. Dimensiuni 1200x400x360 mm, montaj suspendat.",coloană depozitare baie,coloana-depozitare-verticala-baie-compozit-fibra-carbon-negru-mat,"Coloana de depozitare verticala pentru baie din compozit fibra de carbon, negru mat",MC-V9999C,
+,simple,MC-V9960,,,,"Dulap de baie suspendat cu lavoar dublu, finisaj negru texturat mat, 800 mm",1,0,visible,"Dulap de baie suspendat cu lavoar integrat, realizat din compozit din fibră de carbon, cu finisaj negru mat și textură de tip țesătură. Montaj suspendat (pe perete), prevăzut pentru două baterii. Dimensiuni 800x520x450 mm.","<p>Dulap de baie suspendat cu lavoar integrat, executat din compozit din fibră de carbon cu finisaj negru mat și textură de tip țesătură, conceput pentru montaj suspendat pe perete și echipare cu două baterii.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-V9960</td></tr>
+<tr><th>Tip produs</th><td>Dulap de baie suspendat (cu lavoar)</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru mat, textură țesătură</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>800 × 520 × 450 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat, pe perete</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Pregătit pentru două baterii</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>890 × 610 × 540 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"80,0","52,0","45,0",1,,14412,Baie > Mobilier de baie > Dulapuri suspendate,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-V9960/01.png,,,,Culoare,Negru,1,1,Finisaj,"Mat, textură țesătură",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,800 × 520 × 450 mm,1,1,,MC-V9960,import-2026-06,high,,,,"Dulap baie suspendat cu lavoar, negru mat texturat, 800 mm","Dulap de baie suspendat cu lavoar integrat, compozit din fibră de carbon, finisaj negru mat texturat. Montaj pe perete, două baterii. Dimensiuni 800x520x450 mm.",dulap baie suspendat cu lavoar,dulap-baie-suspendat-lavoar-negru-mat-800mm,"Dulap de baie suspendat cu lavoar dublu, finisaj negru texturat mat, cu oglindă dreptunghiulară",MC-V9960,
+,simple,MC-V9970,,,,"Dulap de baie suspendat cu lavoar integrat 1400 mm, negru mat",1,0,visible,"Dulap de baie suspendat cu lavoar integrat, realizat din compozit de fibră de carbon, finisaj negru mat cu textură țesătură. Lungime 1400 mm, montaj pe perete, ventil cu scurgere pop-up.","<p>Dulap de baie suspendat de design cu lavoar integrat, din compozit de fibră de carbon, finisaj negru mat cu textură țesătură, pentru un aspect modern și minimalist al băii.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-V9970</td></tr>
+<tr><th>Tip produs</th><td>Dulap de baie suspendat (cu lavoar integrat)</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru mat, textură țesătură (cloth)</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1400 × 520 × 450 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat (fixare pe perete)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Lavoar integrat, ventil cu scurgere pop-up</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1490 × 610 × 540 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"140,0","52,0","45,0",1,,11950,Baie > Mobilier de baie > Dulapuri suspendate,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-V9970/01.png,,,,Culoare,Negru,1,1,Finisaj,"Mat, textură țesătură (cloth)",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1400 × 520 × 450 mm,1,1,,MC-V9970,import-2026-06,medium,,,,Dulap baie suspendat cu lavoar 1400 mm negru mat,"Dulap de baie suspendat cu lavoar integrat, compozit fibră de carbon, negru mat cu textură țesătură. 1400 mm, montaj pe perete, scurgere pop-up.",dulap baie suspendat cu lavoar,dulap-baie-suspendat-lavoar-1400-negru-mat,"Dulap de baie suspendat cu lavoar integrat, negru mat cu textură țesătură, lungime 1400 mm, vedere de sus",MC-V9970,
+,simple,MC-V9969,,,,"Dulap de baie suspendat cu lavoar integrat, compozit fibră de carbon, negru mat texturat",1,0,visible,"Dulap de baie suspendat cu lavoar integrat, realizat din compozit cu fibră de carbon, finisaj negru mat cu textură de țesătură. Față orizontală riflată, design modern pentru băi contemporane. Dimensiuni 1200x520x300 mm.","<p>Dulap de baie suspendat cu lavoar integrat, din compozit cu fibră de carbon în finisaj negru mat cu textură de țesătură, cu față orizontală riflată pentru un aspect modern și elegant.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-V9969</td></tr>
+<tr><th>Tip produs</th><td>Dulap de baie suspendat (cu lavoar)</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, textură țesătură (cloth), mat</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1200 × 520 × 300 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat (montare pe perete)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Lavoar integrat cu orificiu pentru baterie și scurgere</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1290 × 610 × 390 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"120,0","52,0","30,0",1,,20650,Baie > Mobilier de baie > Dulapuri suspendate,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-V9969/01.png,,,,Culoare,Negru,1,1,Finisaj,"Mat, textură țesătură (cloth)",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1200 × 520 × 300 mm,1,1,,MC-V9969,import-2026-06,high,,,,"Dulap baie suspendat cu lavoar, negru mat texturat","Dulap de baie suspendat cu lavoar integrat din compozit fibră de carbon, finisaj negru mat texturat, față riflată, 1200x520x300 mm. Design modern pentru baie.",dulap baie suspendat cu lavoar,dulap-baie-suspendat-lavoar-negru-mat-texturat,"Dulap de baie suspendat cu lavoar integrat din compozit fibră de carbon, negru mat texturat, montat pe perete sub oglindă",MC-V9969,
+,simple,MC-99913,,,,"Cadă freestanding de colț din compozit fibră de carbon, finisaj negru satinat, textură riflată, 1700x800 mm",1,0,visible,"Cadă de baie independentă de colț (orientare dreapta), realizată din compozit cu fibră de carbon, în finisaj negru satinat cu exterior riflat (canelat). Formă rectangulară cu bazin interior oval, dimensiuni 1700x800x580 mm. Montaj de colț, pentru băi de design.","<p>Cadă de baie independentă de colț, cu orientare pe dreapta, realizată din compozit cu fibră de carbon, cu exterior riflat (canelat) și finisaj negru satinat; corpul rectangular ascunde un bazin interior oval, generos.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-99913</td></tr>
+<tr><th>Tip produs</th><td>Cadă independentă (de sine stătătoare), de colț, orientare dreapta</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, satinat</td></tr>
+<tr><th>Textură exterioară</th><td>Riflată (canelat), pe verticală</td></tr>
+<tr><th>Formă</th><td>Corp rectangular, bazin interior oval</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 580 mm</td></tr>
+<tr><th>Montaj</th><td>De colț, poziționare lipită de perete</td></tr>
+<tr><th>Scurgere</th><td>Orificiu de evacuare central în bazin</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 640 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","58,0",1,,16279,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99913/01.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99913/02.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99913/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99913/04.png",,,,Culoare,Negru,1,1,Finisaj,"Satinat, exterior riflat (canelat)",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1700 × 800 × 580 mm,1,1,,MC-99913,import-2026-06,high,,,,Cadă freestanding de colț neagră satinată 1700x800 mm,"Cadă de baie independentă de colț (dreapta), compozit fibră de carbon, negru satinat, exterior riflat, 1700x800x580 mm. Design pentru băi moderne.",cadă freestanding de colț,cada-freestanding-colt-dreapta-negru-satinat-1700x800,"Cadă freestanding de colț din compozit fibră de carbon, negru satinat, vedere 3/4 cu exterior riflat",MC-99913,
+,simple,MC-99916,,,,"Cadă de baie independentă ovală cu textură riflată, negru satinat 1700x800 mm",1,0,visible,"Cadă de baie independentă (freestanding), lipită de perete (back-to-wall), din compozit cu fibră de carbon. Formă ovală cu exterior riflat vertical și finisaj negru satinat. Dimensiuni 1700x800x580 mm.","<p>Cadă de baie independentă de design, lipită de perete, cu corp oval, suprafață exterioară riflată vertical și finisaj negru satinat, realizată din compozit cu fibră de carbon.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-99916</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding), lipită de perete (back-to-wall)</td></tr>
+<tr><th>Material</th><td>Compozit cu fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, satinat</td></tr>
+<tr><th>Formă</th><td>Ovală, exterior riflat (canelat) vertical</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 580 mm</td></tr>
+<tr><th>Montaj</th><td>Independentă, poziționare lipită de perete</td></tr>
+<tr><th>Scurgere</th><td>Orificiu de evacuare central</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 640 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","58,0",1,,16279,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99916/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99916/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99916/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99916/04.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99916/05.png",,,,Culoare,Negru,1,1,Finisaj,Satinat,1,1,Material,Compozit cu fibră de carbon,1,1,Dimensiuni,1700 × 800 × 580 mm,1,1,,MC-99916,import-2026-06,high,,,,Cadă independentă ovală riflată negru satinat 1700x800,"Cadă de baie independentă, lipită de perete, ovală cu textură riflată și finisaj negru satinat. Compozit cu fibră de carbon, 1700x800x580 mm.",cadă independentă neagră,cada-baie-independenta-ovala-riflata-negru-satinat-1700x800,"Cadă de baie independentă ovală cu textură riflată, finisaj negru satinat, vedere frontală",MC-99916,
+,simple,MC-99918,,,,"Cadă de baie independentă din compozit carbon, formă barcă, exterior riflat, negru satinat",1,0,visible,"Cadă de baie independentă (freestanding) cu formă elegantă de barcă și exterior riflat vertical, realizată din compozit din fibră de carbon, în finisaj negru satinat. Dimensiuni 1800x800x750 mm, ideală pentru băi de design.","<p>Cadă de baie de sine stătătoare (independentă), cu o formă sculpturală de barcă și exterior riflat (canelat) vertical, executată din compozit din fibră de carbon în finisaj negru satinat.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-99918</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding)</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, satinat</td></tr>
+<tr><th>Formă</th><td>Tip barcă, exterior riflat (canelat) vertical</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1800 × 800 × 750 mm</td></tr>
+<tr><th>Montaj</th><td>De sine stătătoare, amplasare liberă în spațiu</td></tr>
+<tr><th>Scurgere</th><td>Orificiu de scurgere central, pregătit pentru ventil pop-up</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1890 × 890 × 830 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"180,0","80,0","75,0",1,,18313,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99918/01.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99918/02.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99918/03.png",,,,Culoare,Negru,1,1,Finisaj,Satinat,1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1800 × 800 × 750 mm,1,1,,MC-99918,import-2026-06,high,,,,"Cadă freestanding compozit carbon, negru satinat 1800 mm","Cadă de baie independentă din compozit de fibră de carbon, formă barcă cu exterior riflat, finisaj negru satinat. Dimensiuni 1800x800x750 mm, pentru băi de design.",cadă freestanding negru,cada-freestanding-compozit-carbon-negru-satinat-1800,"Cadă de baie independentă din compozit de carbon, formă barcă, exterior riflat, negru satinat, vedere de sus în unghi",MC-99918,
+,simple,MC-99911,,,,"Cadă de baie freestanding ovală, exterior riflat, compozit fibră de carbon, negru satinat 1700x800 mm",1,0,visible,"Cadă de baie independentă (freestanding) cu formă ovală și exterior riflat (canelat), realizată din compozit din fibră de carbon, finisaj negru satinat. Dimensiuni 1700x800x580 mm, echipată cu ventil de scurgere pop-up.","<p>Cadă de baie independentă (freestanding) de design, cu formă ovală și exterior riflat (canelat), realizată din compozit din fibră de carbon în finisaj negru satinat.</p>
+<table>
+<thead>
+<tr><th>Specificație</th><th>Valoare</th></tr>
+</thead>
+<tbody>
+<tr><td>Cod intern</td><td>MC-99911</td></tr>
+<tr><td>Tip produs</td><td>Cadă de baie independentă (freestanding)</td></tr>
+<tr><td>Material</td><td>Compozit din fibră de carbon</td></tr>
+<tr><td>Finisaj / Culoare</td><td>Negru, satinat</td></tr>
+<tr><td>Formă</td><td>Ovală, exterior riflat (canelat)</td></tr>
+<tr><td>Dimensiuni (L×l×Î)</td><td>1700 × 800 × 580 mm</td></tr>
+<tr><td>Montaj</td><td>De sine stătătoare (freestanding), amplasare liberă</td></tr>
+<tr><td>Echipare / Scurgere</td><td>Ventil cu scurgere pop-up</td></tr>
+<tr><td>Dimensiuni ambalaj</td><td>1790 × 890 × 640 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","58,0",1,,16279,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99911/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99911/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99911/03.png",,,,Culoare,Negru,1,1,Finisaj,Satinat,1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1700 × 800 × 580 mm,1,1,,MC-99911,import-2026-06,high,,,,Cadă freestanding ovală negru satinat 1700x800 mm,"Cadă de baie independentă ovală, exterior riflat, compozit din fibră de carbon, finisaj negru satinat. Dimensiuni 1700x800x580 mm, scurgere pop-up.",cadă freestanding ovală neagră,cada-baie-freestanding-ovala-negru-satinat-1700x800,"Cadă de baie freestanding ovală neagră satinată cu exterior riflat, vedere frontală",MC-99911,
+,simple,MC-Z9979,,,,"Lavoar independent pe picior, conic riflat, negru satinat 500x500x900 mm",1,0,visible,"Lavoar freestanding (independent, pe coloană) din compozit cu fibră de carbon, finisaj negru satinat și suprafață riflată verticală. Formă conică elegantă, dimensiuni 500x500x900 mm, ideal pentru băi de design.","<p>Lavoar de sine stătătoare (freestanding) cu corp conic și textură riflată verticală, realizat din compozit cu fibră de carbon în finisaj negru satinat, pentru un aspect contemporan de design.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-Z9979</td></tr>
+<tr><th>Tip produs</th><td>Lavoar independent pe picior (coloană / freestanding)</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, satinat</td></tr>
+<tr><th>Textură</th><td>Suprafață riflată (canelată) verticală</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>500 × 500 × 900 mm</td></tr>
+<tr><th>Montaj</th><td>Independent, pe pardoseală (de sine stătător)</td></tr>
+<tr><th>Scurgere</th><td>Orificiu de scurgere central în partea inferioară</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>590 × 590 × 990 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"50,0","50,0","90,0",1,,7115,Baie > Lavoare > Lavoare freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-Z9979/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-Z9979/02.png",,,,Culoare,Negru,1,1,Finisaj,Satinat,1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,500 × 500 × 900 mm,1,1,,MC-Z9979,import-2026-06,high,,,,Lavoar Freestanding Conic Riflat Negru Satinat 90 cm,"Lavoar freestanding conic, riflat, din compozit cu fibră de carbon, finisaj negru satinat, 500x500x900 mm. Design contemporan pentru băi moderne.",lavoar freestanding negru,lavoar-freestanding-conic-riflat-negru-satinat,"Lavoar freestanding conic negru satinat cu suprafață riflată, vedere apropiată",MC-Z9979,
+,simple,MC-99975,,,,"Cadă freestanding back-to-wall din compozit fibră de carbon, negru texturat țesătură, 1700x800 mm",1,0,visible,"Cadă de baie independentă, lipită de perete (back-to-wall), realizată din compozit pe bază de fibră de carbon, în finisaj negru cu textură de țesătură. Formă rectangulară cu bazin oval interior, dimensiuni 1700x800x550 mm. Design contemporan, ideal pentru băi moderne cu poziționare pe lângă perete.","<p>Cadă de baie freestanding (independentă) de tip back-to-wall, lipită de perete, cu corp rectangular și bazin oval interior, executată din compozit pe bază de fibră de carbon în finisaj negru cu textură de țesătură.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-99975</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding), lipită de perete (back-to-wall)</td></tr>
+<tr><th>Material</th><td>Compozit pe bază de fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, textură țesătură (cloth)</td></tr>
+<tr><th>Formă</th><td>Corp rectangular cu bazin oval interior</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 550 mm</td></tr>
+<tr><th>Montaj</th><td>Pe pardoseală, lipită de perete (back-to-wall)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Ventil cu scurgere pop-up</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 640 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","55,0",1,,16279,Baie > Căzi de baie > Căzi freestanding,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99975/01.jpg,,,,Culoare,Negru,1,1,Finisaj,Textură țesătură (cloth),1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1700 × 800 × 550 mm,1,1,,MC-99975,import-2026-06,high,,,,Cadă freestanding fibră de carbon negru 1700x800,"Cadă de baie independentă back-to-wall din compozit fibră de carbon, negru cu textură țesătură, 1700x800x550 mm. Bazin oval, ventil pop-up. Design modern.",cadă freestanding fibră de carbon,cada-freestanding-back-to-wall-fibra-carbon-negru-1700x800,"Cadă de baie freestanding back-to-wall din compozit fibră de carbon, negru cu textură țesătură, formă rectangulară cu bazin oval, lângă perete cu baterie aurie",MC-99975,
+,simple,MC-99976,,,,"Cadă de baie independentă semirotundă din compozit fibră de carbon, negru textură țesătură, 1700x800 mm",1,0,visible,"Cadă de baie independentă (freestanding) semirotundă, realizată din compozit pe bază de fibră de carbon, în finisaj negru cu textură de țesătură (cloth) și aspect lucios. Formă ovală modernă, dimensiuni 1700x800x550 mm, ideală pentru o baie de design.","<p>Cadă de baie independentă, de design, cu formă semirotundă (ovală) și corp din compozit pe bază de fibră de carbon, în finisaj negru cu textură de țesătură și suprafață lucioasă.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-99976</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding), semirotundă</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, textură țesătură (cloth), aspect lucios</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 550 mm</td></tr>
+<tr><th>Montaj</th><td>De sine stătătoare (independentă), poziționare liberă în încăpere</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu de scurgere prevăzut; ventil cu scurgere pop-up recomandat (se achiziționează separat)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 640 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","55,0",1,,16279,Baie > Căzi de baie > Căzi freestanding,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99976/01.jpg,,,,Culoare,Negru,1,1,Finisaj,"Textură țesătură (cloth), lucios",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1700 × 800 × 550 mm,1,1,,MC-99976,import-2026-06,high,,,,Cadă independentă semirotundă fibră de carbon negru 1700,"Cadă de baie independentă semirotundă din compozit fibră de carbon, negru cu textură țesătură, lucioasă. Dimensiuni 1700x800x550 mm, design freestanding.",cadă fibră de carbon,cada-independenta-semirotunda-fibra-carbon-negru-1700,"Cadă de baie independentă semirotundă din compozit fibră de carbon, negru cu textură țesătură, finisaj lucios",MC-99976,
+,simple,MC-G9905-3,,,,"Lavoar suspendat pe blat, dreptunghiular, compozit fibră de carbon, negru satinat 80 cm",1,0,visible,"Lavoar suspendat pe blat, de design, cu corp dreptunghiular și bazin tip canal integrat. Realizat din compozit din fibră de carbon, finisaj negru cu textură țesătură (cloth), satinat. Dimensiuni 800x450x150 mm.","<p>Lavoar suspendat pe blat, de design, cu corp dreptunghiular, bazin tip canal integrat și margini stratificate, realizat din compozit din fibră de carbon cu finisaj negru, textură țesătură (cloth), satinat.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-G9905-3</td></tr>
+<tr><th>Tip produs</th><td>Lavoar suspendat pe blat</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, textură țesătură (cloth), satinat</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>800 × 450 × 150 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat, pe blat</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Bazin integrat, orificiu de scurgere central</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>890 × 540 × 240 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"80,0","45,0","15,0",1,,5413,Baie > Lavoare > Lavoare suspendate,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-G9905-3/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-G9905-3/02.png",,,,Culoare,Negru,1,1,Finisaj,"Textură țesătură (cloth), satinat",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,800 × 450 × 150 mm,1,1,,MC-G9905-3,import-2026-06,medium,,,,Lavoar suspendat pe blat negru satinat 80 cm,"Lavoar suspendat pe blat, de design, din compozit fibră de carbon, negru cu textură țesătură satinată. Bazin dreptunghiular integrat, dimensiuni 800x450x150 mm.",lavoar suspendat pe blat negru,lavoar-suspendat-pe-blat-negru-satinat-80cm,"Lavoar suspendat pe blat din compozit fibră de carbon, negru satinat cu textură țesătură, vedere de sus",MC-G9905-3,
+,simple,MC-99908,,,,"Cadă freestanding ovală tip slipper din compozit fibră de carbon, negru cu textură țesătură, 1835x810 mm",1,0,visible,"Cadă de baie independentă (freestanding) cu siluetă curbată tip slipper, realizată din compozit din fibră de carbon, în finisaj negru cu textură de țesătură. Dimensiuni 1835x810x750 mm. Element de design pentru băile contemporane.","<p>Cadă de baie independentă (freestanding) cu siluetă curbată tip slipper, realizată din compozit din fibră de carbon, finisaj negru cu textură de țesătură, gândită ca element central de design pentru băile moderne.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-99908</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding)</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, textură țesătură (cloth)</td></tr>
+<tr><th>Formă</th><td>Ovală, tip slipper (siluetă curbată)</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1835 x 810 x 750 mm</td></tr>
+<tr><th>Montaj</th><td>Pe pardoseală, amplasare liberă (independentă)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu de scurgere pregătit pentru ventil cu sifon (baterie de cadă neinclusă)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1925 x 900 x 840 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"183,5","81,0","75,0",1,,16279,Baie > Căzi de baie > Căzi freestanding,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-99908/01.jpg,,,,Culoare,Negru,1,1,Finisaj,Textură țesătură (cloth),1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,1835 x 810 x 750 mm,1,1,,MC-99908,import-2026-06,high,,,,Cadă freestanding fibră de carbon negru 1835 mm,"Cadă de baie independentă (freestanding) din compozit din fibră de carbon, negru cu textură țesătură, formă ovală tip slipper, 1835x810x750 mm. Design contemporan.",cadă freestanding fibră de carbon,cada-freestanding-fibra-carbon-negru-1835,"Cadă freestanding ovală tip slipper din compozit fibră de carbon, negru cu textură țesătură, vedere frontală",MC-99908,
+,simple,MC-A9978,,,,"Lavoar pe blat oval din compozit fibră de carbon, negru satinat",1,0,visible,"Lavoar pe blat de design, formă ovală tip barcă, realizat din compozit cu fibră de carbon. Finisaj negru satinat cu textură de țesătură, ideal pentru o baie modernă și statement. Dimensiuni 600x350x190 mm.","<p>Lavoar pe blat de design, cu formă ovală tip barcă și textură remarcabilă de fibră de carbon, care transformă chiuveta într-un punct focal al băii.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-A9978</td></tr>
+<tr><th>Tip produs</th><td>Lavoar pe blat</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Negru, textură țesătură (cloth), satinat</td></tr>
+<tr><th>Formă</th><td>Ovală, tip barcă</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>600 × 350 × 190 mm</td></tr>
+<tr><th>Montaj</th><td>Pe blat (independent)</td></tr>
+<tr><th>Scurgere</th><td>Orificiu central pentru ventil; baterie nu este inclusă</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>690 × 440 × 280 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"60,0","35,0","19,0",1,,2803,Baie > Lavoare > Lavoare pe blat,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-A9978/01.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-A9978/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-A9978/03.png",,,,Culoare,Negru,1,1,Finisaj,"Satinat, textură țesătură (cloth)",1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,600 × 350 × 190 mm,1,1,,MC-A9978,import-2026-06,high,,,,"Lavoar pe blat oval negru, fibră de carbon | 600 mm","Lavoar pe blat oval din compozit cu fibră de carbon, negru satinat cu textură de țesătură. Design tip barcă, 600x350x190 mm, pentru băi moderne.",lavoar pe blat oval negru,lavoar-pe-blat-oval-negru-fibra-carbon-600mm,"Lavoar pe blat oval negru din compozit fibră de carbon, vedere de sus",MC-A9978,
+,simple,MC-ML07A,,,,"Oglindă LED ovală cu ceas și sistem dezaburire, ramă neagră textură țesătură",1,0,visible,"Oglindă de baie ovală cu iluminare LED, ceas integrat și sistem de dezaburire, încadrată într-o ramă neagră cu textură de țesătură. Design modern, montaj suspendat pe perete, dimensiuni 400x800x56 mm.","<p>Oglindă de baie ovală, de design, cu iluminare LED perimetrală, ceas integrat și sistem de dezaburire, încadrată într-o ramă neagră cu textură de țesătură realizată din compozit de fibră de carbon.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-ML07A</td></tr>
+<tr><th>Tip produs</th><td>Oglindă LED cu ceas și sistem de dezaburire</td></tr>
+<tr><th>Material ramă</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Ramă neagră, textură țesătură (cloth)</td></tr>
+<tr><th>Formă</th><td>Ovală</td></tr>
+<tr><th>Iluminare</th><td>LED perimetral</td></tr>
+<tr><th>Funcții integrate</th><td>Ceas digital, sistem de dezaburire</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>400 × 800 × 56 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat pe perete</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>460 × 960 × 116 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"40,0","80,0","5,6",1,,3444,Baie > Oglinzi > Oglinzi cu LED,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-ML07A/01.png,,,,Culoare,Negru,1,1,Finisaj,Textură țesătură (cloth),1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,400x800x56 mm,1,1,,MC-ML07A,import-2026-06,high,,,,"Oglindă LED ovală cu ceas și dezaburire, ramă neagră","Oglindă de baie ovală cu LED, ceas integrat și sistem de dezaburire, ramă neagră cu textură de țesătură. Dimensiuni 400x800x56 mm, montaj suspendat.",oglinda LED cu ceas,oglinda-led-ovala-ceas-dezaburire-rama-neagra,"Oglindă LED ovală de baie cu ramă neagră cu textură de țesătură, iluminare perimetrală, montată pe perete",MC-ML07A,
+,simple,MC-ML02A,,,,"Oglindă LED ovală cu ceas și sistem dezaburire, ramă neagră texturată",1,0,visible,"Oglindă de baie ovală cu iluminare LED, ceas integrat și sistem de dezaburire, încadrată într-o ramă din compozit cu fibră de carbon, finisaj negru cu textură de țesătură. Montaj suspendat, dimensiuni 450x900x56 mm.","<p>Oglindă de baie ovală cu iluminare LED, ceas integrat și sistem de dezaburire, încadrată într-o ramă din compozit cu fibră de carbon, finisaj negru cu textură de țesătură, montaj suspendat.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MC-ML02A</td></tr>
+<tr><th>Tip produs</th><td>Oglindă LED cu ceas și sistem dezaburire</td></tr>
+<tr><th>Material</th><td>Compozit din fibră de carbon</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Ramă neagră, textură țesătură</td></tr>
+<tr><th>Formă</th><td>Ovală (pastilă)</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>450 × 900 × 56 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat (pe perete)</td></tr>
+<tr><th>Echipare</th><td>Iluminare LED, ceas integrat, sistem de dezaburire</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>510 × 960 × 116 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"45,0","90,0","5,6",1,,3603,Baie > Oglinzi > Oglinzi cu LED,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MC-ML02A/01.png,,,,Culoare,Negru,1,1,Finisaj,Textură țesătură,1,1,Material,Compozit din fibră de carbon,1,1,Dimensiuni,450 × 900 × 56 mm,1,1,,MC-ML02A,import-2026-06,high,,,,"Oglindă LED ovală cu ceas și dezaburire, ramă neagră","Oglindă de baie ovală cu iluminare LED, ceas integrat și sistem de dezaburire. Ramă neagră cu textură de țesătură, compozit fibră de carbon, 450x900 mm.",oglindă LED cu ceas,oglinda-led-ovala-ceas-dezaburire-rama-neagra,"Oglindă LED ovală cu ramă neagră texturată, montaj suspendat pe perete",MC-ML02A,
+,simple,MR-G8806-3,,,,"Lavoar suspendat riflat pe blat, dreptunghiular cu bazin asimetric, alb mat",1,0,visible,"Lavoar suspendat din compozit mineral, cu design riflat (canelat) și colțuri rotunjite. Bazinul dreptunghiular este poziționat asimetric, lăsând o suprafață generoasă de blat. Finisaj alb mat, montaj direct pe perete.","<p>Lavoar suspendat de design, cu corp riflat (canelat) și bazin dreptunghiular asimetric, realizat din compozit mineral cu finisaj alb mat.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-G8806-3</td></tr>
+<tr><th>Tip produs</th><td>Lavoar suspendat pe blat, riflat</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Alb mat</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>800 × 450 × 150 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat, fixare directă pe perete</td></tr>
+<tr><th>Bazin</th><td>Dreptunghiular cu colțuri rotunjite, poziționat asimetric (suprafață de blat liberă lateral)</td></tr>
+<tr><th>Scurgere</th><td>Orificiu central de evacuare; baterie nepreinclusă (montaj pe perete recomandat)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>890 × 540 × 240 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"80,0","45,0","15,0",1,,1646,Baie > Lavoare > Lavoare suspendate,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-G8806-3/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-G8806-3/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-G8806-3/03.png",,,,Culoare,Alb,1,1,Finisaj,Mat,1,1,Material,Compozit mineral (Solid Surface),1,1,Dimensiuni,800 × 450 × 150 mm,1,1,,MR-G8806-3,import-2026-06,high,,,,Lavoar suspendat riflat alb mat 800 mm | compozit mineral,"Lavoar suspendat riflat din compozit mineral, finisaj alb mat, 800×450×150 mm. Bazin dreptunghiular asimetric, design canelat modern, montaj pe perete.",lavoar suspendat riflat,lavoar-suspendat-riflat-alb-mat-800mm,"Lavoar suspendat riflat alb mat din compozit mineral, bazin dreptunghiular asimetric, vedere de ansamblu",MR-G8806-3,
+,simple,MR-88803,,,,"Cadă freestanding back-to-wall riflată din compozit mineral, alb mat, 170x80 cm",1,0,visible,"Cadă de baie independentă, lipită de perete (back-to-wall), cu fațetă riflată (canelată) și textură țesătură pe orizontală. Realizată din compozit mineral (Solid Surface), finisaj alb mat, formă rotunjită de design. Dimensiuni 1700x800x550 mm.","<p>Cadă freestanding de design, lipită de perete (back-to-wall), cu fațetă riflată și textură țesătură, executată din compozit mineral cu finisaj alb mat.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-88803</td></tr>
+<tr><th>Tip produs</th><td>Cadă freestanding back-to-wall (independentă, lipită de perete), riflată</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Alb mat</td></tr>
+<tr><th>Textură</th><td>Riflat (canelat), model textură țesătură pe orizontală</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 550 mm</td></tr>
+<tr><th>Montaj</th><td>Lipită de perete (back-to-wall), pe pardoseală, fără picioare vizibile</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Ventil cu scurgere pop-up (preinstalat)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 610 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","55,0",1,,7808,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88803/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88803/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88803/03.png",,,,Culoare,Alb mat,1,1,Finisaj,"Mat, riflat (canelat) cu textură țesătură",1,1,Material,Compozit mineral (Solid Surface),1,1,Dimensiuni,1700 × 800 × 550 mm,1,1,,MR-88803,import-2026-06,medium,,,,Cadă freestanding back-to-wall riflată alb mat 170x80 cm,"Cadă freestanding back-to-wall riflată din compozit mineral, alb mat, 1700x800x550 mm. Formă rotunjită de design, textură țesătură, ventil pop-up.",cada freestanding back-to-wall riflata,cada-freestanding-back-to-wall-riflata-alb-mat-170x80,"Cadă freestanding back-to-wall riflată din compozit mineral alb mat, lipită de perete",MR-88803,
+,simple,MR-G8806-2,,,,"Lavoar dublu suspendat pe blat, riflat, compozit mineral, Alb mat, 1200 mm",1,0,visible,"Lavoar dublu de design, suspendat sau pe blat, realizat din compozit mineral cu finisaj Alb mat. Corp riflat (canelat) cu două cuve rectangulare cu colțuri rotunjite, lungime 1200 mm.","<p>Lavoar dublu de design din compozit mineral, cu corp riflat (canelat) și două cuve rectangulare cu colțuri rotunjite, montaj suspendat pe blat.</p>
+<table>
+<tr><th>Cod intern</th><td>MR-G8806-2</td></tr>
+<tr><th>Tip produs</th><td>Lavoar dublu suspendat pe blat, riflat (canelat)</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Alb mat</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1200 × 450 × 150 mm</td></tr>
+<tr><th>Număr cuve</th><td>2 (duble)</td></tr>
+<tr><th>Montaj</th><td>Suspendat / pe blat, fără orificiu pentru baterie (baterie de perete)</td></tr>
+<tr><th>Scurgere</th><td>Orificiu de scurgere, fără preaplin</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1290 × 540 × 240 mm</td></tr>
+</table>",taxable,1,,,0,,"120,0","45,0","15,0",1,,2112,Baie > Lavoare > Lavoare pe blat,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-G8806-2/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-G8806-2/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-G8806-2/03.png",,,,Culoare,Alb mat,1,1,Finisaj,Mat,1,1,Material,Compozit mineral (piatră compozită / Solid Surface),1,1,Dimensiuni,1200 × 450 × 150 mm,1,1,,MR-G8806-2,import-2026-06,high,,,,Lavoar dublu riflat compozit mineral Alb mat 1200 mm,"Lavoar dublu suspendat pe blat din compozit mineral, finisaj Alb mat, corp riflat cu doua cuve. Dimensiuni 1200×450×150 mm. Design modern pentru baie.",lavoar dublu riflat alb mat,lavoar-dublu-riflat-compozit-mineral-alb-mat-1200,"Lavoar dublu riflat din compozit mineral Alb mat, vedere de sus cu doua cuve rectangulare",MR-G8806-2,
+,simple,MR-A8801,,,,"Lavoar pe blat oval riflat din compozit mineral, alb mat, 56 cm",1,0,visible,"Lavoar pe blat de design, formă ovală, cu exterior riflat (canelat), realizat din compozit mineral (Solid Surface) cu finisaj alb mat. Montaj pe blat, dimensiuni 560x360x160 mm. Estetică minimalistă, ideal pentru băi moderne.","<p>Lavoar pe blat de design, cu formă ovală și exterior riflat (canelat), realizat din compozit mineral (Solid Surface) cu finisaj alb mat, pentru un aspect modern și minimalist în baie.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-A8801</td></tr>
+<tr><th>Tip produs</th><td>Lavoar pe blat, riflat (canelat)</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Alb mat</td></tr>
+<tr><th>Formă</th><td>Ovală</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>560 × 360 × 160 mm</td></tr>
+<tr><th>Montaj</th><td>Pe blat (independent, așezat deasupra blatului)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu de scurgere central; fără orificiu pentru baterie (baterie montată pe perete sau pe blat)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>650 × 450 × 250 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"56,0","36,0","16,0",1,,2952,Baie > Lavoare > Lavoare pe blat,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8801/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8801/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8801/03.png",,,,Culoare,Alb mat,1,1,Finisaj,Mat,1,1,Material,Compozit mineral (Solid Surface),1,1,Dimensiuni,560 × 360 × 160 mm,1,1,,MR-A8801,import-2026-06,high,,,,Lavoar pe blat oval riflat compozit mineral alb mat 56 cm,"Lavoar pe blat oval riflat din compozit mineral (Solid Surface), finisaj alb mat, 560x360x160 mm. Design minimalist pentru bai moderne.",lavoar pe blat oval riflat,lavoar-pe-blat-oval-riflat-compozit-mineral-alb-mat-56cm,"Lavoar pe blat oval riflat din compozit mineral alb mat, montat pe blat alb cu baterie de perete",MR-A8801,
+,simple,MR-88806,,,,"Cadă de baie independentă riflată, lipită de perete, compozit mineral, alb mat, 1700x800 mm",1,0,visible,"Cadă de baie de design, independentă (freestanding) și lipită de perete (back-to-wall), cu exterior riflat/canelat și textură vizibilă pe lateral. Realizată din compozit mineral (Solid Surface), în finisaj alb mat plăcut la atingere. Formă ovală modernă, ideală pentru băi contemporane. Dimensiuni 1700x800x550 mm.","<p>Cadă de baie independentă, de design, cu spate plat pentru montaj lipit de perete și exterior riflat (canelat) din compozit mineral, în finisaj alb mat.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-88806</td></tr>
+<tr><th>Tip produs</th><td>Cadă independentă (freestanding), lipită de perete (back-to-wall), riflată</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Alb mat</td></tr>
+<tr><th>Textură exterioară</th><td>Riflată / canelată</td></tr>
+<tr><th>Formă</th><td>Ovală, colțuri rotunjite</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 550 mm</td></tr>
+<tr><th>Montaj</th><td>Pe pardoseală, lipită de perete (back-to-wall)</td></tr>
+<tr><th>Scurgere</th><td>Orificiu de scurgere prevăzut (ventil cu scurgere pop-up)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 610 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","55,0",1,,7808,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88806/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88806/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88806/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88806/04.png",,,,Culoare,Alb,1,1,Finisaj,Mat,1,1,Material,Compozit mineral (Solid Surface),1,1,Dimensiuni,1700 x 800 x 550 mm,1,1,,MR-88806,import-2026-06,high,,,,Cadă baie independentă riflată alb mat 1700x800 mm,"Cadă de baie independentă, lipită de perete, riflată, din compozit mineral alb mat. Formă ovală modernă, 1700x800x550 mm. Design contemporan pentru baia ta.",cada baie independenta riflata,cada-baie-independenta-riflata-alb-mat-1700x800,"Cadă de baie independentă riflată din compozit mineral alb mat, vedere frontală",MR-88806,
+,simple,MR-88815,,,,"Cadă freestanding riflată din compozit mineral, alb mat, 1700x800x550 mm",1,0,visible,"Cadă de baie independentă (freestanding) cu corp riflat, realizată din compozit mineral (Solid Surface), finisaj alb mat. Formă rectangulară elegantă, cu cuvă interioară ovală. Dimensiuni 1700x800x550 mm.","<p>Cadă de baie independentă (freestanding) cu corp riflat, fabricată din compozit mineral cu finisaj alb mat, având formă rectangulară și cuvă interioară ovală pentru un confort sporit.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-88815</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding), riflată</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Alb mat</td></tr>
+<tr><th>Formă</th><td>Rectangulară, cu cuvă interioară ovală</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 550 mm</td></tr>
+<tr><th>Montaj</th><td>De sine stătătoare (independentă), poziționare liberă în încăpere</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu de scurgere prevăzut; ventil cu scurgere pop-up</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 610 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","55,0",1,,7538,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88815/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88815/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88815/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88815/04.png",,,,Culoare,Alb mat,1,1,Finisaj,"Mat, riflat (canelat)",1,1,Material,Compozit mineral (Solid Surface),1,1,Dimensiuni,1700 × 800 × 550 mm,1,1,,MR-88815,import-2026-06,high,,,,Cadă freestanding riflată compozit mineral alb mat 170 cm,"Cadă de baie independentă riflată din compozit mineral (Solid Surface), finisaj alb mat, formă rectangulară, dimensiuni 1700x800x550 mm. Ventil pop-up inclus.",cadă freestanding compozit mineral,cada-freestanding-riflata-compozit-mineral-alb-mat-1700-800-550,"Cadă freestanding riflată din compozit mineral alb mat, vedere frontală",MR-88815,
+,simple,MR-88870,,,,"Cadă freestanding ovală riflată din compozit mineral, alb mat, 1800x1300 mm",1,0,visible,"Cadă de baie independentă, de tip duo (pentru două persoane), cu formă ovală și exterior riflat (canelat) pe toată circumferința. Realizată din compozit mineral (Solid Surface), finisaj alb mat. Dimensiuni 1800x1300x580 mm, montaj liber în mijlocul încăperii.","<p>Cadă freestanding (independentă, de sine stătătoare) de tip duo, cu formă ovală și suprafață exterioară riflată (canelată), realizată din compozit mineral cu finisaj alb mat.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-88870</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding), duo, ovală, riflată</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Alb mat</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1800 × 1300 × 580 mm</td></tr>
+<tr><th>Montaj</th><td>Independent, amplasare liberă (în mijlocul încăperii sau lângă perete)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Ventil cu scurgere pop-up (clic-clac), poziționat central</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1890 × 1390 × 640 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"180,0","130,0","58,0",1,,8974,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88870/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88870/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88870/03.png",,,,Culoare,Alb mat,1,1,Finisaj,Mat,1,1,Material,Compozit mineral (Solid Surface),1,1,Dimensiuni,1800 × 1300 × 580 mm,1,1,,MR-88870,import-2026-06,high,,,,Cadă freestanding ovală riflată compozit mineral alb mat,"Cadă freestanding ovală riflată din compozit mineral, finisaj alb mat, 1800x1300x580 mm. Cadă duo independentă de design pentru o baie modernă.",cada freestanding ovala riflata,cada-freestanding-ovala-riflata-compozit-mineral-alb-mat,"Cadă freestanding ovală riflată din compozit mineral alb mat, vedere frontală cu baterie de pardoseală",MR-88870,
+,simple,MR-A8870,,,,"Lavoar pe blat riflat, formă triunghiulară organică, alb mat 600x400 mm",1,0,visible,"Lavoar pe blat din compozit mineral, cu formă triunghiulară organică și exterior riflat (canelat). Finisaj alb mat, montaj pe blat, dimensiuni 600x400x160 mm. Element decorativ de design pentru băi moderne.","<p>Lavoar pe blat din compozit mineral, cu formă triunghiulară organică și suprafață exterioară riflată (canelată), finisaj alb mat, conceput pentru montaj pe blat în băi de design.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-A8870</td></tr>
+<tr><th>Tip produs</th><td>Lavoar pe blat, riflat (canelat)</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Alb mat</td></tr>
+<tr><th>Formă</th><td>Triunghiulară organică, exterior riflat</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>600 × 400 × 160 mm</td></tr>
+<tr><th>Montaj</th><td>Pe blat (countertop)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu de scurgere central, fără preaplin (ventil cu scurgere pop-up neinclus)</td></tr>
+<tr><th>Baterie</th><td>Fără orificiu pentru baterie (se folosește baterie de perete sau pe blat, neinclusă)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>690 × 490 × 250 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"60,0","40,0","16,0",1,,895,Baie > Lavoare > Lavoare pe blat,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8870/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8870/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8870/03.png",,,,Culoare,Alb mat,1,1,Finisaj,"Mat, exterior riflat (canelat)",1,1,Material,Compozit mineral (piatră compozită / Solid Surface),1,1,Dimensiuni,600 × 400 × 160 mm,1,1,,MR-A8870,import-2026-06,high,,,,Lavoar pe blat riflat triunghiular alb mat 600x400 mm,"Lavoar pe blat riflat din compozit mineral, formă triunghiulară organică, finisaj alb mat, 600x400x160 mm. Design modern pentru baie, montaj pe blat.",lavoar pe blat riflat,lavoar-pe-blat-riflat-triunghiular-alb-mat-600x400,"Lavoar pe blat riflat, formă triunghiulară, alb mat, vedere de sus cu baterie de perete aurie",MR-A8870,
+,simple,MR-88873,,,,"Cadă freestanding de colț riflată, compozit mineral, gri mat",1,0,visible,"Cadă de baie independentă, montaj pe colț (orientare dreapta), cu textură riflată (canelată) și exterior gri mat. Realizată din compozit mineral (piatră compozită tip Solid Surface), cu suprafață mată plăcută la atingere. Dimensiuni 1700x800x580 mm, ideală pentru băi moderne cu spațiu valorificat în colț.","<p>Cadă freestanding de colț, cu finisaj riflat (canelat) și exterior gri mat din compozit mineral, gândită pentru băi contemporane unde colțul devine punct central de design.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-88873</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding), montaj pe colț, orientare dreapta</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Gri mat (cod finisaj M-62)</td></tr>
+<tr><th>Textură</th><td>Riflată / canelată (efect dungi verticale)</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 580 mm</td></tr>
+<tr><th>Montaj</th><td>Independentă, poziționare pe colț, cu două laturi spre perete</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu de scurgere prevăzut (ventil tip pop-up)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 640 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","58,0",1,,8058,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88873/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88873/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88873/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88873/04.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88873/05.png",,,,Culoare,Gri mat (M-62),1,1,Finisaj,"Riflat / canelat, mat",1,1,Material,Compozit mineral (piatră compozită / Solid Surface),1,1,Dimensiuni,1700 × 800 × 580 mm,1,1,,MR-88873,import-2026-06,high,,,,"Cadă freestanding colț riflată, gri mat 1700x800","Cadă freestanding de colț riflată, gri mat, din compozit mineral. Dimensiuni 1700x800x580 mm, montaj independent pe colț pentru băi moderne.",cadă freestanding de colț riflată,cada-freestanding-colt-riflata-gri-mat-1700x800,"Cadă freestanding de colț riflată, gri mat, vedere laterală",MR-88873,
+,simple,MR-A8872,,,,"Lavoar pe blat riflat, oval, compozit mineral, gri mat 600x350 mm",1,0,visible,"Lavoar pe blat de design, formă ovală cu textură riflată (canelată) pe exterior, realizat din compozit mineral (Solid Surface) cu finisaj gri mat M-62. Dimensiuni 600x350x160 mm, ideal pentru blaturi de baie moderne.","<p>Lavoar pe blat de design, cu formă ovală și suprafață exterioară riflată (canelată), realizat din compozit mineral cu finisaj gri mat catifelat, pentru un aspect contemporan și ușor de întreținut.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-A8872</td></tr>
+<tr><th>Tip produs</th><td>Lavoar pe blat (countertop), riflat</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Gri mat (M-62)</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>600 × 350 × 160 mm</td></tr>
+<tr><th>Montaj</th><td>Pe blat (așezat pe suprafața mobilierului)</td></tr>
+<tr><th>Scurgere</th><td>Compatibil cu ventil de scurgere pop-up</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>690 × 440 × 250 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"60,0","35,0","16,0",1,,1360,Baie > Lavoare > Lavoare pe blat,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8872/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8872/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8872/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8872/04.png",,,,Culoare,Gri mat (M-62),1,1,Finisaj,Mat,1,1,Material,Compozit mineral (Solid Surface),1,1,Dimensiuni,600 x 350 x 160 mm,1,1,,MR-A8872,import-2026-06,high,,,,"Lavoar pe blat riflat oval, compozit mineral, gri mat 600 mm","Lavoar pe blat riflat, oval, din compozit mineral cu finisaj gri mat M-62. Dimensiuni 600x350x160 mm, design modern pentru baie, compatibil ventil pop-up.",lavoar pe blat riflat,lavoar-pe-blat-riflat-oval-compozit-mineral-gri-mat-600x350,"Lavoar pe blat riflat oval din compozit mineral, finisaj gri mat, vedere laterala",MR-A8872,
+,simple,MR-T88873,,,,Cadă freestanding de colț riflată din rășină acrilică transparentă chihlimbar,1,0,visible,"Cadă de baie independentă, de colț (orientare dreapta), cu suprafață riflată și corp din rășină acrilică transparentă în nuanță de chihlimbar. Design spectaculos, translucid, pentru o baie modernă. Dimensiuni 1700x800x580 mm.","<p>Cadă de baie independentă (freestanding) de colț, orientare dreapta, cu pereți riflați (canelați) și corp din rășină acrilică transparentă în nuanță de chihlimbar, care lasă lumina să treacă prin material pentru un efect translucid spectaculos.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-T88873</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding), de colț, orientare dreapta</td></tr>
+<tr><th>Material</th><td>Rășină acrilică transparentă</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Chihlimbar (CT23), transparent</td></tr>
+<tr><th>Suprafață</th><td>Riflată (canelată)</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 580 mm</td></tr>
+<tr><th>Montaj</th><td>De sine stătătoare (independentă), pe pardoseală</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 640 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","58,0",1,,10958,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-T88873/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-T88873/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-T88873/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-T88873/04.png",,,,Culoare,"Chihlimbar (CT23), transparent",1,1,Finisaj,"Riflat (canelat), transparent",1,1,Material,Rășină acrilică transparentă,1,1,Dimensiuni,1700 × 800 × 580 mm,1,1,,MR-T88873,import-2026-06,high,,,,Cadă freestanding colț riflată transparentă chihlimbar 1700,"Cadă de baie independentă de colț, riflată, din rășină acrilică transparentă chihlimbar. Design modern translucid, 1700x800x580 mm, orientare dreapta.",cadă freestanding transparentă,cada-freestanding-colt-riflata-transparenta-chihlimbar-1700,"Cadă freestanding de colț riflată din rășină acrilică transparentă chihlimbar, vedere laterală",MR-T88873,
+,simple,MR-T88876,,,,"Cadă freestanding riflată din rășină acrilică transparentă, cognac, 1700x800 mm",1,0,visible,"Cadă de baie independentă (freestanding) cu corp riflat și rășină acrilică transparentă în nuanță cognac, formă ovală de sine stătătoare, dimensiuni 1700x800x580 mm. Design transparent care aduce un accent decorativ contemporan oricărei băi.","<p>Cadă de baie independentă (freestanding) cu corp riflat, realizată din rășină acrilică transparentă în nuanță cognac, care creează un accent translucid spectaculos în baie.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-T88876</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding), de sine stătătoare</td></tr>
+<tr><th>Material</th><td>Rășină acrilică transparentă</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Cognac (CT22), transparent</td></tr>
+<tr><th>Textură</th><td>Riflată / canelată (dungi verticale)</td></tr>
+<tr><th>Formă</th><td>Ovală</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1700 × 800 × 580 mm</td></tr>
+<tr><th>Montaj</th><td>Independent, amplasare liberă pe pardoseală</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu de scurgere central pe fundul căzii</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1790 × 890 × 640 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"170,0","80,0","58,0",1,,11222,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-T88876/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-T88876/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-T88876/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-T88876/04.png",,,,Culoare,"Cognac (CT22), transparent",1,1,Finisaj,"Riflat / canelat, transparent",1,1,Material,Rășină acrilică transparentă,1,1,Dimensiuni,1700 × 800 × 580 mm,1,1,,MR-T88876,import-2026-06,high,,,,Cadă freestanding riflată rășină acrilică transparentă cognac,"Cadă de baie independentă freestanding, riflată, din rășină acrilică transparentă cognac, 1700x800x580 mm. Design translucid contemporan pentru baie.",cada freestanding transparenta,cada-freestanding-riflata-rasina-acrilica-transparenta-cognac,"Cadă de baie independentă riflată din rășină acrilică transparentă cognac, vedere frontală",MR-T88876,
+,simple,MR-TG8876-1,,,,"Lavoar suspendat riflat din rasina acrilica transparenta, dreptunghiular, chihlimbar 800x450 mm",1,0,visible,"Lavoar suspendat dreptunghiular cu textura riflata (canelata), realizat din rasina acrilica transparenta in nuanta chihlimbar. Suprafata translucida cu efect de profunzime, ideala pentru bai de design contemporan. Dimensiuni 800x450x150 mm, montaj suspendat pe perete, prevazut cu orificiu de scurgere central.","<p>Lavoar suspendat de design cu textura riflata, turnat din rasina acrilica transparenta in nuanta chihlimbar, care confera baii un accent translucid spectaculos.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-TG8876-1</td></tr>
+<tr><th>Tip produs</th><td>Lavoar suspendat, riflat (canelat)</td></tr>
+<tr><th>Material</th><td>Rasina acrilica transparenta</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Chihlimbar (CT23), transparent</td></tr>
+<tr><th>Dimensiuni (L x l x I)</th><td>800 x 450 x 150 mm</td></tr>
+<tr><th>Montaj</th><td>Suspendat pe perete</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu de scurgere central (ventil pop-up neinclus)</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>890 x 540 x 240 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"80,0","45,0","15,0",1,,2648,Baie > Lavoare > Lavoare suspendate,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TG8876-1/01.jpg,,,,Culoare,Chihlimbar (CT23),1,1,Finisaj,"Riflat (canelat), transparent",1,1,Material,Rasina acrilica transparenta,1,1,Dimensiuni,800 x 450 x 150 mm,1,1,,MR-TG8876-1,import-2026-06,high,,,,Lavoar suspendat riflat rasina transparenta chihlimbar 80 cm,"Lavoar suspendat dreptunghiular riflat din rasina acrilica transparenta, nuanta chihlimbar, 800x450x150 mm. Design contemporan translucid pentru baie. Montaj suspendat.",lavoar suspendat riflat transparent,lavoar-suspendat-riflat-rasina-transparenta-chihlimbar-800x450,"Lavoar suspendat dreptunghiular riflat din rasina acrilica transparenta chihlimbar, vedere de sus",MR-TG8876-1,
+,simple,MR-TG8876-3,,,,"Lavoar suspendat dreptunghiular riflat din rasina acrilica transparenta, finisaj Cognac",1,0,visible,"Lavoar suspendat dreptunghiular din rasina acrilica transparenta, cu textura exterioara riflata (canelata) si finisaj Cognac transparent. Dimensiuni 800x450x150 mm, ideal pentru montaj pe blat sau suspendat pe perete, pentru o baie moderna de design.","<p>Lavoar de design dreptunghiular, realizat din rasina acrilica transparenta cu finisaj Cognac, avand peretii exteriori riflati (canelati) care creeaza un joc deosebit de lumina, potrivit pentru montaj suspendat pe perete sau pe blat.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-TG8876-3</td></tr>
+<tr><th>Tip produs</th><td>Lavoar suspendat / pe blat, riflat (canelat)</td></tr>
+<tr><th>Material</th><td>Rasina acrilica transparenta</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Cognac (CT22), transparent</td></tr>
+<tr><th>Dimensiuni (L x l x I)</th><td>800 x 450 x 150 mm</td></tr>
+<tr><th>Forma</th><td>Dreptunghiulara</td></tr>
+<tr><th>Montaj</th><td>Suspendat pe perete sau pe blat</td></tr>
+<tr><th>Scurgere</th><td>Orificiu central pentru ventil; fara preaplin</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>890 x 540 x 240 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"80,0","45,0","15,0",1,,3078,Baie > Lavoare > Lavoare suspendate,,https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TG8876-3/01.jpg,,,,Culoare,"Cognac (CT22), transparent",1,1,Finisaj,"Riflat (canelat), transparent",1,1,Material,Rasina acrilica transparenta,1,1,Dimensiuni,800 x 450 x 150 mm,1,1,,MR-TG8876-3,import-2026-06,high,,,,Lavoar suspendat riflat rasina transparenta Cognac 80 cm,"Lavoar suspendat dreptunghiular din rasina acrilica transparenta, textura riflata si finisaj Cognac. Dimensiuni 800x450x150 mm, montaj pe blat sau pe perete.",lavoar suspendat riflat transparent,lavoar-suspendat-riflat-rasina-transparenta-cognac-80cm,"Lavoar suspendat dreptunghiular riflat din rasina acrilica transparenta, finisaj Cognac, cu baterie aurie",MR-TG8876-3,
+,simple,MR-TZ1503,,,,"Lavoar independent pe coloană riflat din rășină acrilică, chihlimbar transparent",1,0,visible,"Lavoar de baie independent (freestanding) pe coloană, cu corp riflat (canelat) din rășină acrilică transparentă, în nuanță chihlimbar. Formă tip cupă pe picior, montaj pe pardoseală, dimensiuni 400x400x900 mm.","<p>Lavoar de design independent, de sine stătătoare, cu corp riflat din rășină acrilică transparentă în nuanță chihlimbar, montat pe pardoseală.</p><table><tbody><tr><td><strong>Cod intern</strong></td><td>MR-TZ1503</td></tr><tr><td><strong>Tip produs</strong></td><td>Lavoar independent (freestanding) pe coloană</td></tr><tr><td><strong>Material</strong></td><td>Rășină acrilică transparentă</td></tr><tr><td><strong>Finisaj / Culoare</strong></td><td>Chihlimbar (CT23), transparent</td></tr><tr><td><strong>Textură corp</strong></td><td>Riflat / canelat</td></tr><tr><td><strong>Dimensiuni (L×l×Î)</strong></td><td>400 × 400 × 900 mm</td></tr><tr><td><strong>Montaj</strong></td><td>Independent, pe pardoseală</td></tr><tr><td><strong>Scurgere</strong></td><td>Orificiu central de scurgere</td></tr><tr><td><strong>Dimensiuni ambalaj</strong></td><td>490 × 490 × 990 mm</td></tr></tbody></table>",taxable,1,,,0,,"40,0","40,0","90,0",1,,4653,Baie > Lavoare > Lavoare freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TZ1503/01.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TZ1503/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TZ1503/03.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TZ1503/04.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TZ1503/05.png",,,,Culoare,"Chihlimbar (CT23), transparent",1,1,Finisaj,"Riflat / canelat, transparent",1,1,Material,Rășină acrilică transparentă,1,1,Dimensiuni,400 × 400 × 900 mm,1,1,,MR-TZ1503,import-2026-06,high,,,,"Lavoar independent pe coloană riflat, chihlimbar transparent","Lavoar de baie independent pe coloană, corp riflat din rășină acrilică transparentă chihlimbar, montaj pe pardoseală, 400x400x900 mm. Design modern.",lavoar independent riflat,lavoar-independent-coloana-riflat-chihlimbar,"Lavoar independent riflat din rășină acrilică chihlimbar, vedere frontală",MR-TZ1503,
+,simple,MR-88878,,,,"Cadă freestanding riflată, formă de gondolă, compozit mineral, peach mat",1,0,visible,"Cadă de baie independentă (freestanding) cu siluetă elegantă de gondolă și suprafață riflată vertical, realizată din compozit mineral cu finisaj peach mat. Capetele înălțate și textura canelată îi conferă un aspect sculptural, ideal pentru băi de design. Dimensiuni 1800x800x750 mm.","<p>Cadă de baie independentă, de sine stătătoare, cu profil sculptural în formă de gondolă și suprafață exterioară riflată (canelată) vertical, turnată din compozit mineral cu finisaj peach mat, catifelat la atingere.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-88878</td></tr>
+<tr><th>Tip produs</th><td>Cadă de baie independentă (freestanding), riflată</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Peach mat (cod M-59)</td></tr>
+<tr><th>Formă</th><td>Ovală tip gondolă, cu capete înălțate și textură canelată verticală</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>1800 × 800 × 750 mm</td></tr>
+<tr><th>Montaj</th><td>Independent, amplasare liberă pe pardoseală (freestanding)</td></tr>
+<tr><th>Scurgere</th><td>Orificiu de scurgere central</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>1890 × 890 × 810 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"180,0","80,0","75,0",1,,8497,Baie > Căzi de baie > Căzi freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88878/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88878/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-88878/03.png",,,,Culoare,Peach mat (M-59),1,1,Finisaj,Mat (riflat / canelat),1,1,Material,Compozit mineral (piatră compozită / Solid Surface),1,1,Dimensiuni,1800 × 800 × 750 mm,1,1,,MR-88878,import-2026-06,high,,,,"Cadă freestanding riflată gondolă, peach mat 1800x800","Cadă de baie independentă riflată, formă de gondolă, din compozit mineral cu finisaj peach mat. Dimensiuni 1800x800x750 mm. Design sculptural pentru băi moderne.",cadă freestanding riflată,cada-freestanding-riflata-gondola-peach-mat-1800x800,"Cadă freestanding riflată formă de gondolă din compozit mineral peach mat, vedere frontală",MR-88878,
+,simple,MR-A8878,,,,"Lavoar pe blat oval riflat din compozit mineral, 600x350 mm",1,0,visible,"Lavoar pe blat de design, formă ovală cu textură riflată (canelată) pe exterior, realizat din compozit mineral (piatră compozită / Solid Surface). Finisaj peach mat (M-59), dimensiuni 600x350x190 mm. Montaj pe blat, fără preaplin.","<p>Lavoar pe blat de sine stătător, cu corp oval și exterior riflat (canelat), turnat din compozit mineral cu suprafață mată, plăcută la atingere.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-A8878</td></tr>
+<tr><th>Tip produs</th><td>Lavoar pe blat (countertop)</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Peach mat (M-59)</td></tr>
+<tr><th>Formă</th><td>Ovală, exterior riflat / canelat</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>600 × 350 × 190 mm</td></tr>
+<tr><th>Montaj</th><td>Pe blat (countertop)</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu de scurgere central, fără preaplin</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>690 × 440 × 280 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"60,0","35,0","19,0",1,,1397,Baie > Lavoare > Lavoare pe blat,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8878/01.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8878/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8878/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8878/04.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-A8878/05.png",,,,Culoare,Peach mat (M-59),1,1,Finisaj,"Mat, exterior riflat / canelat",1,1,Material,Compozit mineral (piatră compozită / Solid Surface),1,1,Dimensiuni,600 × 350 × 190 mm,1,1,,MR-A8878,import-2026-06,high,,,,Lavoar pe blat oval riflat compozit mineral 600x350,"Lavoar pe blat oval cu textură riflată, din compozit mineral, finisaj peach mat. Dimensiuni 600x350x190 mm, montaj pe blat, fără preaplin.",lavoar pe blat riflat,lavoar-pe-blat-oval-riflat-compozit-mineral-600x350,"Lavoar pe blat oval riflat din compozit mineral, finisaj peach mat",MR-A8878,
+,simple,MR-Z1503,,,,"Lavoar freestanding pe coloană riflat din compozit mineral, alb mat, 40x40x90 cm",1,0,visible,"Lavoar independent (freestanding) pe coloană, cu suprafață riflată (canelată), realizat din compozit mineral alb mat. Formă tip cupă pe picior, montaj pe pardoseală, dimensiuni 400x400x900 mm.","<p>Lavoar de sine stătătoare (freestanding) pe coloană, cu corp riflat tip cupă, realizat din compozit mineral cu finisaj alb mat, pentru o baie de design.</p><table><tbody><tr><th>Cod intern</th><td>MR-Z1503</td></tr><tr><th>Tip produs</th><td>Lavoar independent (freestanding) pe coloană, riflat</td></tr><tr><th>Material</th><td>Compozit mineral (piatră compozită / solid surface)</td></tr><tr><th>Finisaj / Culoare</th><td>Alb mat</td></tr><tr><th>Dimensiuni (L×l×Î)</th><td>400 × 400 × 900 mm</td></tr><tr><th>Montaj</th><td>Pe pardoseală, independent (de sine stătător)</td></tr><tr><th>Echipare / Scurgere</th><td>Scurgere centrală (fără preaplin)</td></tr><tr><th>Dimensiuni ambalaj</th><td>490 × 490 × 990 mm</td></tr></tbody></table>",taxable,1,,,0,,"40,0","40,0","90,0",1,,3490,Baie > Lavoare > Lavoare freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-Z1503/01.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-Z1503/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-Z1503/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-Z1503/04.png",,,,Culoare,Alb mat,1,1,Finisaj,Mat,1,1,Material,Compozit mineral (piatră compozită / solid surface),1,1,Dimensiuni,400 × 400 × 900 mm,1,1,,MR-Z1503,import-2026-06,high,,,,Lavoar freestanding pe coloana riflat alb mat 40x90 cm,"Lavoar freestanding pe coloana, riflat, din compozit mineral alb mat, 400x400x900 mm. Montaj pe pardoseala, design tip cupa pe picior pentru baie moderna.",lavoar freestanding pe coloana,lavoar-freestanding-coloana-riflat-alb-mat-40x90,"Lavoar freestanding pe coloana riflat alb mat, vedere frontala",MR-Z1503,
+,simple,MR-TZ1503-CT22,,,,"Lavoar freestanding pe coloană riflat din rășină acrilică transparentă, cognac",1,0,visible,"Lavoar independent pe coloană (freestanding), cu corp riflat (canelat) realizat din rășină acrilică transparentă în nuanță cognac. Design statement pentru băi moderne, montaj pe pardoseală, dimensiuni 400x400x900 mm.","<p>Lavoar independent de sine stătătoare, cu coloană riflată și cuvă în formă de cupă, turnat din rășină acrilică transparentă în nuanță cognac, pentru un accent vizual elegant în baie.</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-TZ1503-CT22</td></tr>
+<tr><th>Tip produs</th><td>Lavoar independent (freestanding) pe coloană</td></tr>
+<tr><th>Material</th><td>Rășină acrilică transparentă</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Cognac, transparent, suprafață riflată (canelată)</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>400 × 400 × 900 mm</td></tr>
+<tr><th>Montaj</th><td>Independent, pe pardoseală (fără picior separat)</td></tr>
+<tr><th>Scurgere</th><td>Orificiu central pentru ventil; baterie nu este inclusă</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>490 × 490 × 990 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"40,0","40,0","90,0",1,,4653,Baie > Lavoare > Lavoare freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TZ1503-CT22/01.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TZ1503-CT22/02.jpg, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-TZ1503-CT22/03.png",,,,Culoare,Cognac (transparent),1,1,Finisaj,"Riflat (canelat), transparent",1,1,Material,Rășină acrilică transparentă,1,1,Dimensiuni,400 x 400 x 900 mm,1,1,,MR-TZ1503-CT22,import-2026-06,high,,,,Lavoar freestanding riflat rășină transparentă cognac,"Lavoar independent (freestanding) pe coloană, riflat, din rășină acrilică transparentă cognac. Dimensiuni 400x400x900 mm. Design modern pentru baie.",lavoar freestanding cognac,lavoar-freestanding-riflat-rasina-transparenta-cognac,"Lavoar freestanding riflat din rasina acrilica transparenta cognac, vedere frontala",MR-TZ1503-CT22,
+,simple,MR-Z1503-M59,,,,"Lavoar independent pe coloană, design riflat, compozit mineral, 400x400x900 mm",1,0,visible,"Lavoar de baie independent (freestanding), montat pe coloană proprie, cu suprafață riflată (canelată) realizată din compozit mineral. Finisaj peach mat (M-59), formă tip cupă pe picior, pentru băi de design.","<p>Lavoar independent de sine stătătoare, cu corp riflat (canelat) tip cupă pe coloană proprie, executat din compozit mineral cu finisaj peach mat (M-59).</p>
+<table>
+<tbody>
+<tr><th>Cod intern</th><td>MR-Z1503-M59</td></tr>
+<tr><th>Tip produs</th><td>Lavoar independent (freestanding) pe coloană</td></tr>
+<tr><th>Material</th><td>Compozit mineral (piatră compozită / Solid Surface)</td></tr>
+<tr><th>Finisaj / Culoare</th><td>Peach mat (M-59)</td></tr>
+<tr><th>Design</th><td>Riflat / canelat, corp tip cupă pe picior</td></tr>
+<tr><th>Dimensiuni (L×l×Î)</th><td>400 × 400 × 900 mm</td></tr>
+<tr><th>Montaj</th><td>De sine stătător (freestanding), pe coloană proprie</td></tr>
+<tr><th>Echipare / Scurgere</th><td>Orificiu pentru ventil de scurgere</td></tr>
+<tr><th>Dimensiuni ambalaj</th><td>490 × 490 × 990 mm</td></tr>
+</tbody>
+</table>",taxable,1,,,0,,"40,0","40,0","90,0",1,,3690,Baie > Lavoare > Lavoare freestanding,,"https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-Z1503-M59/01.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-Z1503-M59/02.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-Z1503-M59/03.png, https://raw.githubusercontent.com/edipopescueduard6-lab/doarbai-import-2026/main/images/MR-Z1503-M59/04.png",,,,Culoare,Peach mat (M-59),1,1,Finisaj,"Mat, riflat / canelat",1,1,Material,Compozit mineral (piatră compozită / Solid Surface),1,1,Dimensiuni,400 × 400 × 900 mm,1,1,,MR-Z1503-M59,import-2026-06,high,,,,"Lavoar independent pe coloana riflat, peach mat 400x400x900","Lavoar de baie independent (freestanding) pe coloana, design riflat din compozit mineral, finisaj peach mat M-59, dimensiuni 400x400x900 mm.",lavoar independent pe coloana,lavoar-independent-coloana-riflat-peach-mat-400x400x900,"Lavoar independent pe coloana cu design riflat, finisaj peach mat, vedere completa",MR-Z1503-M59,
