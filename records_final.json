@@ -22,7 +22,9 @@
     "confidence": "high",
     "notes": "Imaginea sr0.png confirma produsul: lavoar/dulap suspendat cu lavoar integrat, suprafata inchisa cu textura asemanatoare pietrei/tesaturii, finisaj negru mat, montaj pe perete cu baterie neagra si oglinda deasupra. Corespunde tipului, formei si culorii/finisajului confirmate. Nicio imagine respinsa. Nu am inventat greutate, capacitate, garantie sau certificari. Scurgere descrisa ca ventil cu scurgere pop-up conform conventiei de traducere.",
     "final_images": [
-      "01.png"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
     ]
   },
   {
@@ -48,7 +50,10 @@
     "confidence": "high",
     "notes": "Imaginea sr0.png corespunde exact produsului confirmat: lavoar pe blat dreptunghiular, profil subtire (60 mm), suprafata negru mat cu textura de tesatura (cloth) vizibila. Pastrata ca imagine principala (produs izolat, fundal neutru, baterie de perete in fundal). Nu am inventat greutate, capacitate, garantie sau certificari. Echiparea (fara orificiu baterie / scurgere centrala) este dedusa din forma vizibila in imagine.",
     "final_images": [
-      "01.png"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -74,7 +79,10 @@
     "confidence": "high",
     "notes": "Singura imagine candidat (sr0.png) corespunde produsului confirmat: dulap suspendat cu lavoar dublu integrat, format lung (1400 mm), suprafață închisă la culoare cu textură. Renderul afișează o nuanță gri-antracit cu textură țesătură; conform instrucțiunilor, am descris culoarea/finisajul CONFIRMAT (negru mat, textură țesătură). Imaginea o include un singur produs izolat, fundal neutru, cu oglindă deasupra — păstrată ca poză principală. Nu am inventat greutate, capacitate, garanție sau certificări.",
     "final_images": [
-      "01.png"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -100,7 +108,10 @@
     "confidence": "high",
     "notes": "Singura imagine candidat (sr0.png) corespunde produsului: dulap suspendat cu lavoar integrat, formă rectangulară lungă (~1200 mm), finisaj negru mat cu textură. Oglinda din compoziție face parte din scenă, dar produsul focal este corect. Păstrată ca imagine principală. Nu am inventat greutate, capacitate, garanție sau certificări.",
     "final_images": [
-      "01.png"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -131,7 +142,7 @@
     "confidence": "medium",
     "notes": "Singura imagine candidat (sr0.png) a fost respinsă: înfățișează un lavoar independent tip coloană pe picior, nu o coloană/dulap de depozitare suspendată. Nu există nicio imagine validă pentru acest produs. Conținutul text a fost generat exclusiv pe baza datelor confirmate (SKU, tip, material, finisaj, dimensiuni). Atenție: tipul „dulap suspendat 1200 mm\" combinat cu dimensiunile L=1200/l=400/Î=360 sugerează mai degrabă un corp orizontal lat decât o coloană verticală înaltă — de verificat orientarea reală a produsului. Nu s-au inventat greutate, capacitate, garanție sau certificări. Recomand obținerea unei fotografii reale a produsului corect înainte de publicare.",
     "final_images": [
-      "01.png"
+      "01.jpg"
     ]
   },
   {
@@ -157,7 +168,7 @@
     "confidence": "high",
     "notes": "O singură imagine candidat (sr0.png), păstrată. Arată un dulap de baie suspendat cu lavoar integrat, suprafață texturată închisă (negru mat, țesătură), pregătit pentru două baterii, cu oglindă dreptunghiulară prezentată în context. Tipul produsului, finisajul și proporțiile (lat, puțin adânc, înălțime redusă) corespund specificațiilor confirmate. Oglinda este accesoriu de prezentare, nu produsul în sine. Fără greutate/capacitate/garanție inventate.",
     "final_images": [
-      "01.png"
+      "01.jpg"
     ]
   },
   {
@@ -183,7 +194,10 @@
     "confidence": "medium",
     "notes": "Imaginea sr0.png arată un dulap suspendat cu lavoar integrat și ventil pop-up negru, formă alungită (compatibilă cu 1400 mm), tonalitate închisă — corespunde tipului confirmat, deci a fost păstrată. Suprafața din imagine apare ca piatră închisă speckled; conform regulilor, am descris finisajul CONFIRMAT (negru mat, textură țesătură). Nu am inventat greutate, capacitate în litri, garanție sau certificări. O singură imagine candidat disponibilă.",
     "final_images": [
-      "01.png"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -209,7 +223,8 @@
     "confidence": "high",
     "notes": "Imaginea sr0.png include o oglindă deasupra dulapului (accesoriu de scenă, nu face parte din produs); subiectul principal corespunde produsului confirmat: dulap suspendat cu lavoar integrat, formă orizontală alungită, față riflată, negru cu textură țesătură, mat. O singură imagine candidat disponibilă, păstrată. Fără brand menționat. Greutate/capacitate/garanție/certificări nu au fost inventate.",
     "final_images": [
-      "01.png"
+      "01.jpg",
+      "02.jpg"
     ]
   },
   {
@@ -246,10 +261,11 @@
     "confidence": "high",
     "notes": "Păstrate 4 imagini, toate ale aceluiași model de colț (corp rectangular, bazin oval, finisaj negru satinat, exterior riflat). sr0.png respinsă deoarece arată un model diferit, de formă ovală/organică, care nu corespunde formei confirmate de colț dreapta. Ordine: cc_03 (cea mai curată vedere 3/4 izolată), mb_01 (frontală curată), cc_02 (vedere de sus cu scurgere), cc_01 (ambient). Fără brand/producător în text. Termeni traduși: freestanding→independentă/de sine stătătoare, riflat/canelat, satinat. Nu am inventat greutate, capacitate în litri, garanție sau certificări.",
     "final_images": [
-      "01.png",
+      "01.jpg",
       "02.jpg",
-      "03.png",
-      "04.png"
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -284,10 +300,10 @@
     "notes": "Toate cele 5 imagini reprezintă același produs (cadă ovală riflată vertical, negru satinat, back-to-wall) confirmat prin formă, finisaj și configurația lipită de perete vizibilă în cc_02/cc_03. Ordine: mb_01 (frontal izolat, fundal neutru), sr0 (unghi lateral 3/4), cc_03 (3/4 de sus), cc_02 (top-down detaliu scurgere), cc_01 (ambianță). Fără brand/producător în text. Nu am inventat greutate, capacitate în litri, garanție sau certificări.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png",
-      "04.png",
-      "05.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -326,9 +342,12 @@
     "confidence": "high",
     "notes": "Produs identificat ca o cadă freestanding formă barcă cu exterior riflat vertical și interior marmorat, finisaj negru satinat. Păstrate 3 imagini (cc_03 izolat în unghi ca primă, mb_01 frontal, cc_01 ambient). Respinse 2 imagini (sr0, cc_02) deoarece arată un alt model — cadă ovală cu margine perlată/festonată. Fără greutate/capacitate/garanție/certificări inventate; brandul nu este menționat.",
     "final_images": [
-      "01.png",
+      "01.jpg",
       "02.jpg",
-      "03.png"
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
     ]
   },
   {
@@ -368,8 +387,10 @@
     "notes": "Păstrate 3 imagini ale aceluiași produs (formă ovală, exterior riflat, negru satinat): mb_01 (frontal izolat), cc_03 (unghi 3/4), cc_02 (vedere de sus cu pop-up). Respinse: sr0 (alt model, formă rectangulară recesată) și cc_01 (render decorativ cu produsul mic în fundal). Fără brand/producător în text. Nu am inventat greutate, capacitate în litri, garanție sau certificări.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -411,7 +432,9 @@
     "notes": "Produsul confirmat (lavoar freestanding conic riflat, negru satinat) apare clar în mb_01.jpg, cc_03.png, sr0.png și cc_01.png. Am păstrat doar mb_01.jpg (close-up curat, fundal neutru) și cc_03.png (produs complet, fundal neutru). sr0.png și cc_01.png conțin același produs dar în scene decorative aglomerate (chitară, boxă) — respinse ca poze decorative. cc_02.png este alt model (lavoar tip blat rotund). Nu am inventat greutate, capacitate, garanție sau certificări.",
     "final_images": [
       "01.jpg",
-      "02.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -442,7 +465,11 @@
     "confidence": "high",
     "notes": "Păstrată 1 imagine (mb_01.jpg) — singura care corespunde produsului confirmat: cadă rectangulară back-to-wall, negru cu textură de țesătură carbon, bazin oval, ~1700x800. Respinsă sr0.png (obiect oval mic cu margine perlată și mâner, calitate slabă, nu corespunde formei). Nu am inventat greutate, capacitate în litri, garanție sau certificări. Fără brand/producător în text. Termeni traduși: freestanding→independentă, back-to-wall→lipită de perete, cloth→țesătură, pop-up→ventil cu scurgere pop-up.",
     "final_images": [
-      "01.jpg"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -473,7 +500,11 @@
     "confidence": "high",
     "notes": "Din 2 imagini candidat, păstrată doar mb_01.jpg (potrivire exactă: formă semirotundă ovală, compozit fibră de carbon, negru cu textură țesătură lucioasă, fundal neutru, produs izolat). Respinsă sr0.png — model diferit (formă de barcă/gondolă cu textură riflată verticală). O singură imagine validă. Texte fără brand/producător; termeni traduși în română (freestanding→independentă, cloth→țesătură, pop-up→ventil cu scurgere pop-up). Nu s-au inventat greutate, capacitate, garanție sau certificări.",
     "final_images": [
-      "01.jpg"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -510,8 +541,7 @@
     "confidence": "medium",
     "notes": "Păstrate: mb_01.jpg (cea mai curată poză izolată a produsului, vedere de sus) și cc_02.png (unghi secundar cu oglindă). Respinse: sr0.png și cc_01.png (scene decorative cu recuzită - chitară, amplificator, perete de sticlă - produs mic/îndepărtat). Toate cele 4 imagini arată aceeași formă de lavoar suspendat pe blat cu margini stratificate; finisajul confirmat (negru, textură țesătură, satinat) a fost descris în text. Nu am inventat greutate, capacitate, garanție sau certificări. Fără brand/producător în conținut.",
     "final_images": [
-      "01.jpg",
-      "02.png"
+      "01.jpg"
     ]
   },
   {
@@ -546,7 +576,9 @@
     "confidence": "high",
     "notes": "Doar mb_01.jpg corespunde produsului confirmat (formă slipper ovală, textură țesătură carbon, negru). sr-alt.png este lavoar dublu (alt tip produs). sr0.png este altă cadă cu textură riflată/canelată și formă bol rotund. Nu am inventat greutate, capacitate, garanție sau certificări. Fără brand/producător în text.",
     "final_images": [
-      "01.jpg"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
     ]
   },
   {
@@ -576,9 +608,9 @@
     "confidence": "high",
     "notes": "Toate cele 3 imagini păstrate: același produs (lavoar pe blat oval tip barcă, compozit fibră de carbon, negru satinat cu textură țesătură). sr0.png = vedere de sus izolată (prima); cc_02.png = detaliu material cu baterie; cc_01.png = ambianță showroom cu două lavoare și oglinzi ovale. În cc_01 apare un logo mic pe o cutie de lemn jos-stânga, însă produsul corespunde și scena este relevantă pentru context. Nu am inventat greutate, capacitate, garanție sau certificări. Brand/producător omis complet.",
     "final_images": [
-      "01.png",
-      "02.png",
-      "03.png"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
     ]
   },
   {
@@ -604,7 +636,10 @@
     "confidence": "high",
     "notes": "Imaginea sr0.png corespunde exact produsului confirmat: oglindă LED ovală, ramă neagră cu textură de țesătură, fundal neutru, produs izolat. Ceasul și sistemul de dezaburire nu sunt vizibile ca elemente distincte în randarea unică, dar sunt listate conform datelor confirmate. O singură imagine validă disponibilă, păstrată ca prima și unica.",
     "final_images": [
-      "01.png"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -630,7 +665,10 @@
     "confidence": "high",
     "notes": "O singură imagine candidat (sr0.png), păstrată: oglindă ovală/pastilă cu ramă neagră cu textură de țesătură, montaj suspendat pe perete - corespunde formei și finisajului confirmate. Iluminarea LED, ceasul și dezaburirea nu sunt vizibile în imagine, dar sunt specificații confirmate, deci au fost incluse în text. Fără brand/producător în conținut.",
     "final_images": [
-      "01.png"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -677,9 +715,7 @@
     "confidence": "high",
     "notes": "Confirmat din imagini: formă dreptunghiulară riflată (canelată) cu colțuri rotunjite, bazin asimetric pe stânga, finisaj alb mat, montaj suspendat — corespunde datelor furnizate. Păstrate 3 imagini cu produsul în alb mat (mb_01 cea mai curată/izolată, apoi două unghiuri în ambient). Respinse: sc_03 și sc_05 (decorative), sc_04 (variantă cupru), sc_06 (model albastru cu dublu bazin). Conform instrucțiunilor, nu am inventat greutate, capacitate, garanție sau certificări; bateria apare în randări dar nu este declarată inclusă, marcată ca nepreinclusă.",
     "final_images": [
-      "01.jpg",
-      "02.png",
-      "03.png"
+      "01.jpg"
     ]
   },
   {
@@ -727,8 +763,11 @@
     "notes": "Forma confirmată a produsului (rotunjită/oval back-to-wall, riflată) este susținută de mb_01, sc_01 și sc_02 - toate arată aceeași cadă lipită de perete cu textură țesătură orizontală. Am respins sc_03 (rectangulară netedă), sc_05 și sc_06 (rectangulare riflate cu colțuri drepte - alt model) și sc_04 (piatră prețioasă decorativă). Prima imagine (mb_01) este cea mai curată poză a produsului. Nu am inventat greutate, capacitate (litri), garanție sau certificări. Scurgerea pop-up este menționată ca echipare standard pentru acest tip de cadă; dacă nu este confirmată în comandă, se poate elimina din tabel.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
     ]
   },
   {
@@ -771,9 +810,7 @@
     "confidence": "high",
     "notes": "Pastrate 3 imagini cu lavoarul dublu confirmat (mb_01 vedere de sus izolata, sc_02 unghi 3/4, sc_01 frontal in ambient). Respinse sc_03 si sc_04 deoarece arata varianta cu o singura cuva (alt model), iar sc_05 este imagine decorativa fara produs. Baterie de perete in randari => lavoarul nu are orificiu pentru baterie (montaj fara orificiu). Nu am inventat greutate, capacitate, garantie sau certificari.",
     "final_images": [
-      "01.jpg",
-      "02.png",
-      "03.png"
+      "01.jpg"
     ]
   },
   {
@@ -824,9 +861,7 @@
     "confidence": "high",
     "notes": "Pastrate 3 imagini cu lavoarul oval riflat alb mat pe blat (mb_01 = cea mai curata, izolata; apoi unghiuri). Respinse 5: sc_03/sc_04/sc_05 sunt cazi freestanding cognac (alt tip produs), sc_06/sc_07 sunt produse verde-teal (alt tip si culoare). Toate imaginile pastrate arata forma si culoarea confirmate (oval, riflat, alb mat). Nu am inventat greutate, capacitate, garantie sau certificari. Brandul nu apare in continut.",
     "final_images": [
-      "01.jpg",
-      "02.png",
-      "03.png"
+      "01.jpg"
     ]
   },
   {
@@ -872,9 +907,11 @@
     "notes": "Păstrate 4 imagini ale căzii riflate freestanding/back-to-wall (mb_01 izolată primă, apoi unghiuri/detaliu). Respinse 3 imagini (sc_04, sc_05, sc_06) care arată lavoare suspendate riflate din aceeași gamă de design, dar alt produs. Toate pozele arată culoare alb (mat), conform finisajului confirmat. Fără date inventate (greutate/litri/garanție/certificări). Fără brand/producător.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png",
-      "04.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
     ]
   },
   {
@@ -924,9 +961,10 @@
     "notes": "Produsul confirmat este o cadă RECTANGULARĂ (1700x800x550) cu cuvă interioară ovală. Am păstrat 4 imagini care arată exact acest model rectangular (mb_01, sc_01, sc_02, sc_03). Am respins sc_04–sc_07 deoarece prezintă căzi cu corp curbat/oval (alt model). Textura riflată („riflată\") apare clar pe peretele de fundal din mb_01; corpul căzii este neted pe imagini, însă conform datelor confirmate finisajul/tipul este riflat — am descris finisajul confirmat în text. Nu am inventat greutate, capacitate în litri, garanție sau certificări.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png",
-      "04.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -986,8 +1024,10 @@
     "notes": "Forma confirmată (cadă freestanding ovală duo riflată) apare clar în mb_01, sc_01, sc_02, toate în alb — corespund finisajului alb mat confirmat. sc_03/sc_04 sunt aceeași formă dar în culoare chihlimbar; respinse deoarece există deja imagini corecte în alb și pentru a nu deruta clientul. sc_05/sc_06 sunt lavoare (produs diferit). sc_07/sc_08/sc_09 sunt o cadă din compozit translucid negru (material/culoare diferite). Nu am inventat greutate, capacitate, garanție sau certificări. Brandul nu a fost menționat nicăieri.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -1047,8 +1087,8 @@
     "notes": "Imagini păstrate: mb_01 (hero, lavoar alb triunghiular riflat izolat pe blat), sc_03 (același produs alb, unghi), sc_02 (aceeași formă triunghiulară riflată dar în nuanță cognac/auriu - păstrat ca vedere de silueta de sus, conform instrucțiunilor de a păstra forma identică; textul descrie culoarea CONFIRMATĂ alb mat). Respinse: variantele cadă, ovale, verzi și cele din material translucid (fumuriu/albastru), fiind modele/materiale diferite. Nu am inventat greutate, capacitate, garanție sau certificări. Bateria și ventilul pop-up nu apar specificate ca incluse, deci marcate ca neincluse.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png"
+      "02.jpg",
+      "03.jpg"
     ]
   },
   {
@@ -1100,10 +1140,11 @@
     "notes": "Imaginile păstrate (mb_01, sc_01, sc_02, sc_03, sc_04) arată aceeași formă: cadă freestanding de colț riflată, montaj dreapta. mb_01 este cea mai curată poză izolată (gri/mat, fundal neutru), aleasă ca primă. sc_03 și sc_04 arată aceeași formă cu interior verde/sage - păstrate conform instrucțiunilor (aceeași formă), dar culoarea descrisă în text este cea confirmată: gri mat M-62. Respinse: sc_05/sc_06/sc_07 (variantă translucidă chihlimbar/cupru - material și aspect diferit) și sc_08 (decor pietre, fără produs). Nu am inventat greutate, capacitate (litri), garanție sau certificări. Fără brand/producător în text.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png",
-      "04.png",
-      "05.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
     ]
   },
   {
@@ -1160,10 +1201,7 @@
     "confidence": "high",
     "notes": "Pastrate 4 imagini cu aceeasi forma (lavoar pe blat oval riflat). mb_01 e produsul izolat pe blat, cea mai curata. sc_03/sc_04/sc_06 arata aceeasi forma in variante de culoare (alb/negru/cognac) - culoarea confirmata gri mat M-62 e descrisa in text. Respinse 4 lavoare-coloana independente (alt tip) si 2 cazi de baie (alt produs).",
     "final_images": [
-      "01.jpg",
-      "02.png",
-      "03.png",
-      "04.png"
+      "01.jpg"
     ]
   },
   {
@@ -1217,9 +1255,10 @@
     "notes": "Păstrate 4 imagini cu produsul confirmat (rășină acrilică transparentă chihlimbar, riflată, freestanding de colț): mb_01 (hero lateral), sc_02 (izolat fundal neutru), sc_03 (trei sferturi cu baterie), sc_01 (vedere de sus, arată forma de colț dreapta). Respinse: sc_04 (pietre decorative), sc_05/sc_06 (cadă ovală opacă albă - alt model), sc_07/sc_08 (cadă ovală opacă mov - alt model). Culoarea în poze corespunde finisajului confirmat chihlimbar/amber. Nu am inventat greutate, capacitate în litri, garanție sau certificări. Nu există imagine cu echipare/scurgere vizibilă clar, deci rândul Scurgere a fost omis din tabel pentru a nu inventa date.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png",
-      "04.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -1277,9 +1316,11 @@
     "notes": "Păstrate 4 imagini ale căzii freestanding riflate cognac (mb_01 izolat frontal, sc_03 unghi 3/4, sc_01 context, sc_02 vedere de sus). Respinse 6 imagini: sc_04–sc_09 sunt lavoare suspendate/pe blat (alt tip de produs), unele în culori diferite (galben, fum) — fac parte din aceeași familie de design dar nu sunt acest produs. Fără mențiuni de brand/producător. Termeni traduși: freestanding→independentă/de sine stătătoare, fluted→riflat/canelat.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png",
-      "04.png"
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
     ]
   },
   {
@@ -1305,7 +1346,10 @@
     "confidence": "high",
     "notes": "Imaginea mb_01.jpg confirma exact tipul (lavoar suspendat dreptunghiular riflat), forma si textura canelata, precum si finisajul transparent in nuanta chihlimbar/coral. Proportiile (raport aprox. 800x450) si orificiul central de scurgere corespund datelor confirmate. Bateria si peretele din fundal sunt elemente de context, nu fac parte din produs. O singura imagine candidat disponibila, pastrata. Nu am inventat greutate, capacitate, garantie sau certificari.",
     "final_images": [
-      "01.jpg"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -1331,7 +1375,10 @@
     "confidence": "high",
     "notes": "Imaginea mb_01.jpg corespunde exact: lavoar dreptunghiular din rasina transparenta cu textura exterioara riflata in tonul Cognac (chihlimbar fumuriu), montaj pe blat/suspendat. Pastrata ca poza principala a produsului izolat. Bateria aurie din imagine este element de decor, nu face parte din produs. Nu am inventat greutate, capacitate, garantie sau certificari. Fara mentiuni de brand/producator.",
     "final_images": [
-      "01.jpg"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -1378,11 +1425,11 @@
     "confidence": "high",
     "notes": "Păstrate 5 imagini: 3 în culoarea confirmată chihlimbar (sc_04 frontal izolat, sc_05 unghi, mb_01 detaliu) și 2 cu aceeași formă în alb (sc_03, sc_02) — descrise în text ca nuanța confirmată chihlimbar. Respinse 3 imagini (2 poze decorative cu pietre, 1 alt model lavoare ovale pe blat). Fără brand/producător în text. Nu am inventat greutate, capacitate, garanție sau certificări.",
     "final_images": [
-      "01.png",
-      "02.png",
+      "01.jpg",
+      "02.jpg",
       "03.jpg",
-      "04.png",
-      "05.png"
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -1450,8 +1497,7 @@
     "notes": "Forma confirmată = cadă tip gondolă/barcă cu capete înălțate și riflaj vertical. Păstrate 3 imagini cu aceeași siluetă (mb_01 albă izolată, sc_02 ambianță crem, sc_03 render portocaliu al aceleiași forme). Culoarea reală descrisă în text = peach mat M-59, deși renderele arată alb/crem/portocaliu. Respinse: 2 modele ovale (mb_03, sc_01, sc_04, sc_05), 1 model rotund (mb_02), 1 lavoar (sc_06) și 3 imagini din rășină transparentă chihlimbar (sc_07, sc_08, sc_09 — material diferit). Nu am inventat greutate, capacitate, garanție sau certificări.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png"
+      "02.jpg"
     ]
   },
   {
@@ -1503,10 +1549,7 @@
     "notes": "Form-match (lavoar oval pe blat, exterior riflat/canelat) confirmat la 5 imagini. Pozele păstrate arată culori diferite (peach/alb-neutru, terracotta, smoke) ale aceleiași forme; textul descrie culoarea CONFIRMATĂ peach mat (M-59). Prima imagine (mb_01.jpg) e cea mai curată poză a produsului izolat. Au fost respinse 3 căzi de baie independente (sc_01, sc_05, sc_07) și un vas de formă diferită pe raft (sc_04). Nu am inventat greutate, capacitate, garanție sau certificări.",
     "final_images": [
       "01.jpg",
-      "02.png",
-      "03.png",
-      "04.png",
-      "05.png"
+      "02.jpg"
     ]
   },
   {
@@ -1551,10 +1594,10 @@
     "confidence": "high",
     "notes": "Forma cupa riflata pe coloana este confirmata de sc_02/sc_03 in alb mat (culoarea confirmata). sc_04 si sc_05 arata exact aceeasi forma dar in varianta chihlimbar/galben; pastrate ca unghiuri suplimentare conform instructiunilor, dar textul descrie culoarea confirmata (alb mat). Au fost respinse 2 imagini decorative cu pietre si 1 imagine cu alt model (lavoare ovale pe blat). Nu am inventat greutate, capacitate, garantie sau certificari.",
     "final_images": [
-      "01.png",
-      "02.png",
-      "03.png",
-      "04.png"
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg"
     ]
   },
   {
@@ -1605,9 +1648,11 @@
     "confidence": "high",
     "notes": "Au fost păstrate 3 imagini care arată produsul în rășină transparentă cognac (sc_04 izolat, mb_01 detaliu, sc_05 unghi). sc_02 și sc_03 arată aceeași formă dar în finisaj alb opac (material diferit față de rășina transparentă confirmată), deci respinse. sc_01 și sc_06 sunt poze decorative cu pietre. sc_07 este alt model (lavoare ovale pe blat). Nu am inventat greutate, capacitate, garanție sau certificări. Brandul/producătorul nu apare nicăieri.",
     "final_images": [
-      "01.png",
+      "01.jpg",
       "02.jpg",
-      "03.png"
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
     ]
   },
   {
@@ -1652,10 +1697,7 @@
     "confidence": "high",
     "notes": "Pastrate 4 imagini ale aceleiasi forme (lavoar riflat freestanding pe coloana). sc_03 = poza izolata cea mai curata; sc_02 = detaliu/unghi. sc_04 si sc_05 arata aceeasi forma in varianta de culoare chihlimbar/galben translucid (nu peach M-59) — pastrate ca unghiuri de forma, dar textul descrie culoarea CONFIRMATA peach mat M-59. Respinse 3: doua imagini decorative cu pietre (sc_01, sc_06) si un alt model de lavoare ovale pe blat (sc_07). Fara brand mentionat. Nu am inventat greutate, capacitate, garantie sau certificari.",
     "final_images": [
-      "01.png",
-      "02.png",
-      "03.png",
-      "04.png"
+      "01.jpg"
     ]
   }
 ]
